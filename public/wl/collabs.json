@@ -1,0 +1,1580 @@
+[
+  {
+    "address": "0x1cc832dc945173b48c90f62810053b0aa2657970",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4ebc9701fead12f377a9f01773041fa00bbf9875",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9c03eaeebede7994a17f3b208573bbc0bf23bfda",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x330c6417f202faf4c39cee71c8f911be4cf607ed",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe548c15eff99a71990068324fc4a0fbfb953154d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x35b4c48a6e6f6440584882cde11c909a62792e3c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa1fbd8380562663747ceec9dba604c780cb30585",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x93b4eaa964085f755825bd57124a8b48e0873320",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbe3e88a36811ee9798379b45d5a7e6cf8d8e57cd",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x656655b173ab2cf5139c375ed7cd9c2a23ca0432",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4fcf1d5ae9d58883184defae123c508398c77f77",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x171b468674ed1734b9fb601d6633d1f3701134e0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2d11fd2a7e2ca2635635e4b5f3ad651ef3c83193",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcdcc0bd3f5a2c39c0a6d14aa22fdbf88e4b7ed7b",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd32da5e0da90827e26f124bd6e140198432e579f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc9bf227b9d0179245c37e914789049dc399dffd6",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3b09445db1c9c6d5fe51f12932ede8c45a0221b6",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0b34416b23a67306e070a7d9b02cc23304432300",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x97116b9e52ef4272ac1757f4b26904e4f25b2582",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfd406e8a38dd22e3a3efdfe4cd7249a7cb602975",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc078a24393d87a7f6cd4e26b7a3b1b1eb6afd7fb",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6eb51ca34be2f072e9a77f163b0444de6afccd68",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4d1f3ab93c79abfa8922fc9142e3fc28da4aa6c2",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4cd45ad9f4ecf14d0c6ce30aadc6a426d0170323",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5512ead70743688cb40d9b99d9570c8450ad78e5",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa5e2bb97de3c62ca06f1a2293eb7e01c114e9a49",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4aa12c5e9e87c37973be20643e3851e5c839c13a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9ef3d2b8bfb58e0a0c2fab22ffba3f3e3ab4d5eb",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa95f5dc3ce353e4bfb21da4330b10a193d8659a0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x25bd59bfc48cea44b33b8940d582f1df30add9f0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x46b198d3bc69889f1b89105d4fe65235c80d692e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x67982e125645e6c097dd6bb53bffef3162fc9f99",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8adbb6c6d09087acb858f9fb3fc383b5166466e7",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbad47b044237f6e3052751a3f7c3a643012ccc94",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc78b6e49bef5085368670bcdd7d9875b23b620b1",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x029083c81f95eb3641bd965aec8e0fb10d1356f0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9a205dd15ee37ffb262709373078cae0e589aea9",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4e80b808616f271525a313f561cd985b142f7068",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x748c7f25a636229b35a7ee9cfc62c75b3641012d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xeaf95eb3078937d5dc38eeb5c1f35f5aa861ef84",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd68ddf35b917843c471d5be94e9a0713ba015034",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x67610697c7c94178c977b8bf4bf2c512ab24ddcd",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2d37744830278b02729365eedf672fa4e24bfbf6",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9b0df7efbaf26d5d30cb971701ce65c156a412b8",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x232b9fce7a76e0f5efb5e31d620045adf5d66192",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1d5bea21472ce97be78743d6b126c3a7e09d73c0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xedb172e3b9b1add090158de62adac9bfbba7ff0f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x94cb25d6fed600df16a4ed14bb5d278549aaa8c1",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x629b839051d3d67c80026aa563561d1f7b7e06d4",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2b8ed88ce5ef8d8d29fb5f1c14dee0ef6a97cf82",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1a13de9e7040efd4a87a376f332cdb2510141728",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x272236e395acab88053b205f8f96da7cc84b24a7",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcddb80e3103b33eba832059a2a5bab8211f7872a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x855be80fa8269e9fc7a4cb25889ae6306dee5aa9",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x387e9761770085f88d33cb0adddaf71e26ad844e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x266ce416b1b8e11c660a444416b064d0dff590d6",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xaf81a046cf413053290ee43049b0502e15f9cd61",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3e4960769cfe616b5b968a605bd3b96db9670be3",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x60b582f6fc3d37f160ee01ed1e4a026c6f6f27dc",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x79611dc198290a9c02c16c0e9d82b4d9497c3ba5",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf22db845ca16e4e4092e3806cb39b09bf0c5b159",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5d2a437765d57bda2a34d9888e4d80787c39a98a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb7ed5a3011543b5efe71fe3d02b015777c5ac0ca",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x304fb4636c228ee3ea900d016ff140e4dc18a535",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd26771c4657815610eefe371e01494be759eda9f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc05fc6e4570f387635f3081f78958629468fdf2b",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2957ca416d14000eb0a1b20e8d36a28cee041db0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x355db28916ed639636883ac9baf7b2af270c344d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x786c3d58a619708decde7d82b7e5fe62e85a7984",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6e7e971def0b0ed3eb121b4a567e93efac1c7e6b",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x604661a769b08bdbff6a5f887c712b170919b0dd",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd8ed25e9914b4114422484438b207fa2062429aa",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x35f7128f290fa736ac978fa58f6d879c4d237176",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc4f5792e84cfdd6dc5e65aff13c05a489ffe8884",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4365a913a035416683184ebe498b60808d5bc9e0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbb8addbe981fad63dd071d9bc165a3d1dc7d3de6",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9a6712f636edda7e7a592e4f309c6f6399470825",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3598e10681e1d8f019267a2872ef1b0f2fb6895f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6d0e6edbbf8a3f70db1f7d72cf9c948414739026",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x566ac447d06b90361abb6d85d79207ab8b124e97",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x39d610f0e8082ef1705bd7cd3389f77ceb700ea3",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcaaa41bbb47f7e49b17f0d200ff9e0103676fd98",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x557ff2198c85c6d9a358667f0218a938185b1fe2",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb1016f6fb0b4209f2c71a3b78c70cd318b225b8c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xedae72e1eb214b3d1796fd226cb341c9a46a336d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x67a4e5bfb70d2e02d81e41f21836366c5f57cec1",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x84192154e7650ade35db11dc6c31b05c7169f48e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x220899f59c4c123503080afd8b51568b3617e677",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0cb88d97e09dd12e29e6613a484e1a293dbb7424",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7e313c5c9150ea88fe8f5bf273428d3693cc8f1a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf8ff3a82468948f5a51b55b16423e1c71d859b1d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcb93260699941413a0bfc7b0ddf923cc796732d8",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8eec4f78b3f4269a423e3c7eea79b42b3476ee36",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0617d4ddbf27ce8173f01bfb9b6cc202c430d427",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcb861bcfebdcb779c77ee0d1a2f6aff731e1fd07",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc499cad689e4744bb52eb685bc68378aa19f4472",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbf2f351f9decf67639ec19f8cf2c9ec717925c2b",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd9605434e5e0f96df2e9ff7c1e13bcbae58e206a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x39715cf7a0a477377d2b099f1f4c0733f5f63abd",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x588d2b61e81ef4866e82bb37338ebbb8469a1f36",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xde1201fc7c18e5a4e6e50d478a7e9790b7f69ab1",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa4b2b1fdd2c1b072202f16e812b46ede09f526f4",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdeefcbd38fbf69a089ca815a0d05cdcfe9577a36",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc894dc889e69bdd2ee6702baa40741dedc644b76",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdd65a18d0e0a2849388dd4aa2801e59ea40abe82",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf2e3fca50dfc64d1fb8b78fc5c6940c111198e1a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2d2ea7237a71240bcce25c43f6c6a67caf8a1d22",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xac3a55159b0b23e979ea27bf8625079c73267c96",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4ccf429f02182c9c74d86a6cfc8ad9133198f366",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb98aa9f8e47070f41bf0a52e980a23eb07d70510",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8665881ec88da1c2992bbf6887c1663c3adfa65e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb53058f0db39c85bb9975494b09ba6de039c85b5",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe87e9d2bf3e5f52a21626e8d310472d22f1286b9",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x981266532ba833ba2c9ea4d91152c644bfd7f068",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x05943dca2cce966e9439298e5fa80cc94ee19c5e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf78a1568bdb5f0c639243c9fb4f3429984015b7c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0fa670846220e3936dee3c5e842fa2726cb17f67",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcf7e597426c9eb7631c94f3ea8f4c4ca15374158",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x80b937dbc4608ef79845f80e323b0909fe11715d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x029e13c1dcde8972361c9552ced69b97596e0e86",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9fa3c87eb4668984b87e185b24ae08759b0f50bd",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x45e2ae4c9bc360b47f771895a0c2ccf9d554e1e3",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x73d2a51ba95f1e05fb271b3f4140617c2bd9c691",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7faaf70a229e1ebaa772e660e89dc7b98470a649",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc19109eb833ab904860376738a877a577fcc4f01",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x34ea5e3170f7d281487c936aabe9c7632b41fe10",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5cd97a5b26f107e81ae6583fa56d212200f21008",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x295aec438b95a3d302c2e061f0b65933e61e9fef",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa7964d31fcb2dde6cae43a71205299deadef90bb",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfece874d5cb40d3958d8b43859523ed0a6fa811f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2e0408c61269391944f3739ee4818443b01cc774",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8027669903efdbd6a90eb4962fe7702ce4b0869b",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x692373652125808b072bdaceec8295023b2b7f62",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcc1855459f7ae37cac5feb609003ea98c9015dcd",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc21ae2a06dd165403addabb9824785cbc375abfb",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x56589a01e8c8df73d7acbaa66a446fc0b8d1e8dd",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa45f1058bed58821846533441b5618ef5f00ca5f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4b2f964fe6f094d5774a2100139c6c91c9023f87",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x84ec78621734d101e8bef929fba11502476ef02c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x709e7b2531a14206f1becc6c84cc32dea7505feb",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7cfed59b8522158a22737554871cd5fedf2c534d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf11316f7a74217e1383a3e0988829831e0329306",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbd019bb4d83b9c0d6bfe39f00c8f367c051676d2",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf78b857eddcb1e67ccaadd071895c6078ed24c72",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x09ce8c6b2b0791743488ab3b0ecbbd226094b77a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc8787710209a3851a03bfcf1df648c3407333c8c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 3
+  },
+  {
+    "address": "0x95558c6be5fb3104c804841533750d756efc0fe9",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 3
+  },
+  {
+    "address": "0x69645612e0cc0d781f4ab5710f9aa84dc0fcdf8a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 3
+  },
+  {
+    "address": "0x73e2f7bcc702638876aaef814e660a52b8299cdb",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 3
+  },
+  {
+    "address": "0x02b2c5524ecab7e817196b74b9f8e730f9bb9e51",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 3
+  },
+  {
+    "address": "0x6410aa2597da0ae1334c84109c95e1111d7b78cc",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 3
+  },
+  {
+    "address": "0xb0d810c8392ddc0e6feb31df0dfe4f87f1c16eff",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 3
+  },
+  {
+    "address": "0x2feeea04c729a87b20b92a058cb5da0883c78eed",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 2
+  },
+  {
+    "address": "0xeb0a85184f23d325593a5df0db3b82e823b52ff3",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 2
+  },
+  {
+    "address": "0xb3a7438f37581af7b4a2bf4df0fd7b476f4c5cfb",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 2
+  },
+  {
+    "address": "0x2a52321d83e6af7ce5a2125a3a1534b4282a7a73",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 2
+  },
+  {
+    "address": "0x35ef282e2de954e52808e703c6e248d20dc62212",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 2
+  },
+  {
+    "address": "0xba7c8bd03268a98a507e2901d95d1239e2f7b0d8",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc0ad502642781cffc9d7d5dc77ea1143284d14bf",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x02f946394054f22e1475d2d4fbd871ee0d8746b7",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x81c5409459d63fe4d3b358c781954b4b2a20db44",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2d0fabb6dca5a6e8fc7fffd827aea48e4e128e9f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcfa5cd75cda3788252c641f603edde924338939a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x525ad28c9982641c2e93f7e4d6036c7a04196570",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6edc001bbec44136139f0a4ac0d6f1c580f7414e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe36784d1b576d2869334950bc9f17df844029233",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4bf864df3bde8cce1f5a30575c52e4559eddc2a0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x553bbabdee224bb4c2b0ded08cb75729b7bf1e3e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x767e8da65a1eb4b26b9c839034c9ec88a32e3493",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa11e110065a7f9b0f08c18c21b1d05147d2a284a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8c63e363c6cafa72e0c3ce4e90036ac3cd4a3dde",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8f9942ed35d867ee5bd7d95b73ff376e53af486c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xab9efc7b7f1649456673fbb22725690b8a2cbc69",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd4e40ca2c9920803873a8f94152f9d19a3f8c7af",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa6ce4828f875cd413bc67fa96ddaea180410e570",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xeb0502c1630f1106d94259e61e0b2e6827a36906",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xee52fd8b0994313741bf251069d99a238b3c9489",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1ceb0bd3c4257f8013fa008fb515f792ecf9b8ae",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcbf807e500f28cc277a98c655489584dbc6303ef",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x347b50693db2de7691c6753d27983f06ba44fc92",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x665905365b9d49bba64645292b0dc1d40c5d8a37",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xad30f8d3de07662eebf9a536ff326f0cc215f294",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9c817167d641ca1504f13542c5fd09107f7efa9a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x20cca4c77d3285df403fdd209cde9d17549a41b4",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x37bc676b67bcdef2c3c89ddc1c20e8c12611d5c1",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3570f3f14b1dd1b5777278989aac6d871a8e7a78",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4fb023182ac45b9825b80a7b27f1c908942f8b9c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x32f355abfc352b3d2b40f35b2a21c5934f3be602",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x96fe5d8f32ce9a31b7789ac759d66c1c482e501b",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9dc7cf30102a3b50a441589483d2209ee30fc50e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x57a8ec8e142f275638cac6eb8dab92cc9973f9b1",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xec531a3b55d23764b15e50d7f11726e60bcc21b5",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1dff0bd582f4d112806453164e20f779caacfd28",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7ed3334a5efbf79a9b9fe41e4d40e167fd88b563",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa7240d6e9acf8d1c2b877f5accf49b82da7fc1ae",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3a9c4378082847b921e3671203e14b3d5c6b5ec3",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x62da5bb361bedde98ec07c6955a1a902f6d6ce92",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb872c685464c85b85966782f91df2b24cb8a9407",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf47ab72cea7e455866ff501b95c75a004390d4cd",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5ca5064826ecf13672d8f65ad8d6654267670f74",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcf1b3de77cf14a04e1951eec372033dbf16a27f8",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x01d7342183b8924eef45fa4a4d54064fe6576938",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8f1eb87f02b04564eefb27a50bccd83b1c680354",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0e3716877faeefcade6664c3d114b822de49e604",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3684d9acb5cca7cf8fd753a7846e68ceab638a86",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x101ff75932adff39c1d71f2986e2718f953c8de1",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xba5b91b6963cd425bf5c9f67d68aa25e3489db80",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xea5a7978dfc8915e457cfab7cfbcf66da54fea20",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbbdd3d52a8a08ea0fe711b9ad4e3ceaafd1a3f36",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0d76a38e0486e53f0f0b6e73ea136548d072fc14",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7b45836d84d9283cbabe63864e953089ff5ea182",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5734aa8ad0f92ddf13f90fe874f16666bce3f85c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9c5e2dfcae4827bef264e7a1c4fcf861674f7adf",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0fb43b4ba9e2d759bd40a9a7740c29007a9837a9",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0c0e5b15d429d4cac3b559bba9f80a4d541a353a",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x03d0d3b1753cdbf4853ca297dfb5d49f65471b95",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x67fd645dcd3c2408e81452941c74f2cd066cb2d9",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x14243ab506511900d16151cf7a37653e7112c3ba",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb058f859ee257d5b95991d5efd443009531b78c3",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x53dd1c27543e300ae04916b595a9d4d983b3c58c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x527a3d99f641eb0e1cca066be92d53eddade44e8",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6cd702c169ab1a586bcb1e47013c01266a84f353",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa9f2f02730cb91fbf975402b05174a9a242ad3f4",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcf0a6a931a7618c5c2ddee0ddce3303db233d35d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd384a7ed312ad8a6915e2142834b38bffdfb000c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x961dbe4b9934b5743542091dc8cfd1ac572b133e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xaa85f4177464fb87f64721c133bcac3e864a23ae",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4df672aa5884183aa0fe120ad18b62d38dfcef05",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7120a60285fd286d636502ddb688d348c37aad7f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2ccbdf7b1ae9b1635ece6c8ec23262458a158933",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf1ce1b313171b09d517b238d62d4c327a0a9946f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x478188740452da78dbef5d85bbd0e2bf300b579e",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x669c6785639611f92bab6d2318831b9c3b3fba7b",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfde6ca74dd73dbb961d547a30874de823626e297",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x393ac5c4aa62243a44495141bf45976a818ae139",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb5edfd8616d69b5166cff0cb1d592e020ccb13d6",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5788858ed0ad70dea5056738b7ffd1810eacb84f",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe3e71a18bcf04f3dae331437fafae5b89ea2bed8",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5154823f97fe3692d070e038507348c121dcba24",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x00d2291f593648390cb91df7d771c9c4bf1dcb24",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8f5f144986c0dfdcd256285528c38dd4733211d8",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe58d9a64f26fe2f9b68f4e86651e2c607e9406f5",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0d1e396447faf93018fccdc6c017bffb977c3331",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfa324d792d55c5431f73f74492dd761644684e27",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc3e1698d31c10b682f296063d2055a21c31fd70b",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xaf07164b7d31d663e578cd33c66e33c92a90a175",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xed298b43e29cdd41b5dfb4a25d3ae929ac6f21f7",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5135a1679998745ca64365874e38f57b2df77672",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x56983d766bfd0a8e8a2f268919fdee65e70d790c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xae3642a03a1e4bd7ab7d919d14c54ecf1bfdddd3",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xca88cf845105b2b60f93ef8e178b7e75477ad49c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x916eb904ec3397bfe14a5a29bd655cc2238d24ff",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3283631ff55bd53e62806d3161db0bd649c20d3c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc8f5325821acd562e4d7e233dfb2232c98f91303",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x24226df28f0a7aa81accf1a5931b24d292a74c3d",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd9504787719e93b15ab46fd00071bc62a3a0b3fa",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6d2e9160d47867ff45cb4590e7a141ba826b1d04",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x06959250527c9ecd42ec6cfe4e00b8e0a3185584",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x107e98320592ef9f10d6b0ebf46ffe2e5d2c7a65",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9f2ffa9b7e91310267efc46e0764459fe6c0dec7",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc17c69fd0d9f61768e0a67e0f67845d8bf04b87c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc05b1022947220473a4c7c7dee19286d68170f50",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7adee30cb4a49ed79caa838ba7cfb46c3317d798",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  }
+]
