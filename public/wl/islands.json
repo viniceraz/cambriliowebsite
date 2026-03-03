@@ -1,0 +1,5852 @@
+[
+  {
+    "address": "0x2055d06da38cf4ac2033d0da437aa3eee6f004c1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 203
+  },
+  {
+    "address": "0xccd6b8e11f1abc13efa7ff0367d801bc53b98f77",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 169
+  },
+  {
+    "address": "0x661045d9286a4db874f7e3bdd5d2534f19bf4604",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 123
+  },
+  {
+    "address": "0x5c24b7308637513f593b6e5005135186c85e9c11",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 99
+  },
+  {
+    "address": "0xbc39a54b7b28b8627fffedc6fd4c86c4676f1800",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 99
+  },
+  {
+    "address": "0x4555bd75d2a51fc33f760a55096027e71e99aa77",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 97
+  },
+  {
+    "address": "0xa5e2bb97de3c62ca06f1a2293eb7e01c114e9a49",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 42
+  },
+  {
+    "address": "0xf4bbf63d29329dde3047840706895b1a2f66a2fc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 34
+  },
+  {
+    "address": "0x535b02b47d5d0d8b08ce93066c0660f717694998",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 34
+  },
+  {
+    "address": "0x0acfda6d3dc527fc267f4117a0328c85a1d6683c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 29
+  },
+  {
+    "address": "0xb85b88227fe1c47df8f6a366bc0ed99b466f4a74",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 28
+  },
+  {
+    "address": "0x9c5e2dfcae4827bef264e7a1c4fcf861674f7adf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 26
+  },
+  {
+    "address": "0x69f369fcb15765d674910a9556a89c69ffaead2c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 26
+  },
+  {
+    "address": "0x89a0e9826b56e147fcd59c4b4d561e53fb2cd5c7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 25
+  },
+  {
+    "address": "0x37cedb10dfa478ce14423e24f745fd640b4cd989",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 23
+  },
+  {
+    "address": "0x49770037ba75dc1856a84fe600e43c9980cff4bc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 22
+  },
+  {
+    "address": "0x00e484da1156202e9dd341ad7ea9c908bb919e96",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 20
+  },
+  {
+    "address": "0x9b138e61bc913654132ca6a0e1571fece0f5b570",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 20
+  },
+  {
+    "address": "0xa0726f86ef89438b1e197eacdf0981f82a79ae04",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 20
+  },
+  {
+    "address": "0xfc3c962fad2c1cc77f1a0d46e7b8a2de79a21774",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 20
+  },
+  {
+    "address": "0x349a30400d7cb23ce685326e0658fea2efbd3f3f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 19
+  },
+  {
+    "address": "0x354587fc7757cac0b7ad0d0898aa682f08d15c26",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 19
+  },
+  {
+    "address": "0x9a07b428d04c5c8ddf9b5282cb54480c1b8d1410",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 19
+  },
+  {
+    "address": "0xc6824f15a967dc46aaad76d8d47d1795b930dd8b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 18
+  },
+  {
+    "address": "0xa839793e705670ef0b08d3d931cc48604c569a58",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 17
+  },
+  {
+    "address": "0x784772b9de5e4b74f207ed2e593471569f5812a8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 17
+  },
+  {
+    "address": "0x8cacbce6a96f4ac62b5ba257065e3f8f27e1558d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 15
+  },
+  {
+    "address": "0x89d5ac566d4d0bf14dad8b0531dd4b3de47f9424",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 15
+  },
+  {
+    "address": "0xabdf29e5b370525f2e2ad7aab17f028fa57025ea",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 14
+  },
+  {
+    "address": "0xf4d28f9ef6f9990de37983e58a49ab09337d5459",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 13
+  },
+  {
+    "address": "0x95359f8af2b02f5576a35558c9f3998b926802b5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 13
+  },
+  {
+    "address": "0xcf8bbed67a0c1117b78bb97730ebb9756df20640",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 13
+  },
+  {
+    "address": "0x518b73b297427a4cf697daaa5cf83358114f4a41",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 12
+  },
+  {
+    "address": "0x057e23daeeac573e99654c751ca2f0ead65656e2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 11
+  },
+  {
+    "address": "0x4d1f3ab93c79abfa8922fc9142e3fc28da4aa6c2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0xe7e48d6e53e3d369e1e0eb8e830e35b78e0f2b44",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0x278fac43a0f1280fc9fab8c26f11911ba214de3f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0xd27a1f1decd87c24e5db50014df8b393c7916b81",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0x2914ac5a5314d64424fbc51ae95b0cdaea899cb3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0x9641363ed5061a14282e1033e9d89dbbedb5c2fd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0xb5eb92b3d208f0d9c11ac6fb8853a0abadd844b3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0xb11069fb7ff5bb92acacbc3b766a03705612a915",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0xf1d82511fbe6af16d8be1b09538f5b407c649c6d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0xfe4b04ade5478f3b649614221cdcc43ee31fa27e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0xfff7b1c607ddf6717b638286158df24bab49aeb8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0x27f4cea185af16f6cf784359e203e0125bea4ffb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 10
+  },
+  {
+    "address": "0x26968956870fef85086f06b7d221314581153215",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 9
+  },
+  {
+    "address": "0x6f9968393601c83ab5b639f8457aa0c2a41124c2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 9
+  },
+  {
+    "address": "0xb19b607d5fc4ac3266d47e0ca980ba9095ef0883",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 9
+  },
+  {
+    "address": "0x67a32e939d8b6ed7029319a75eb5019755bb04c3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 9
+  },
+  {
+    "address": "0x7bb2759d3475cb1d4c77dd19a9c20222e8153834",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 9
+  },
+  {
+    "address": "0x449c10efe5244b815404aea2875176d37b18c750",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0x5a2079450f5d9abdea4996e88e6710f86838fe0b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0xd46bf0a413daa638d66517d7b183d1107bcd62e3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0x08bea5990446e20b8d3735c7f621335d87882cf6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0xcf0a6a931a7618c5c2ddee0ddce3303db233d35d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0xc638466721325846c3937e36da15df5fdc22c3d7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0x2c1e712fc1609e1058337a39bc6d14ef4af7dcbb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0x5cb4fd4a2e32e6c3a7ada40e1a63d2c701b3d94f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0x085464a72dc18edc3b43a2af16c7a71477919b23",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0xbd8edbcad57b5197373309954dd959fcca40d183",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0x21a49dce17094f080943376d1b74bb5930a7cbd2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 8
+  },
+  {
+    "address": "0x1cc832dc945173b48c90f62810053b0aa2657970",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0xcfa1bb5f876e1aa4b62e0ffc788b87a1c0405111",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x4455a0e8320788099dc26035d02c7e16cb21c87e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0xd34e32f16e6c23a8ab38aab8343b1e27dda567a5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x3b8dbd73529613781fe3cb1f74e829ffc042560a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x9e49fad65d35ef76803587628da7626a892268c9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x1697db5839e8f997b61a57d723b498d9d1003301",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x560a2edd994f2ba4883cdf8e0d164558d8c803ac",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x97ac66f67e52130b2df8eda7e3d85b1dcbb77adf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0xe7717ebca636cd2417ada4889e306ad71ba4077b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x906b4887ed734cec149afd27b8bb34341c3cafde",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x8fcdba8bb58336a3c3e8ae51211926b9bfcc651a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x11e63b1c875698acf7155c6d3a78f85e053461c8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x55d22408591f2a70af3e3a60de55d890a319bc58",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x9b2aea87c785a2828abbeb1c69a80c25966bb9ae",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x664fe01207dc37c84a97a8dcdc28bcc1da6bee57",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x11ec1bd59efc667c5d9bbb5b5cd365dec8dee2cb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x9e66504a892fa84705c24a4bd41e67b6be581c65",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x84c9bf7c5ce44765e4cceabe8ba9698ccb5b6a32",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x5de0c18ad34e2895aa6b7088e4e42305909d409d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0x94b6304dd2be3a16739d43104cd7e47d9dd40dba",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0xa2381223639181689cd6c46d38a1a4884bb6d83c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 7
+  },
+  {
+    "address": "0xb133ae084c2c914fb5b47af6b55c46f1bffeb2fc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x4946b6f70f92e8611dbaff98051fed6897611ce1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x6fa43dce72a00190b7993450d8e32487b5b07d2f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x268e8ef615670b275418d2787521ad27a4c9c310",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0xef6a1351f06aea6450931525f931f3bdc163775c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x11cc135530b80b9448c16aab77c46903f2070d8c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0xf9ea761d2f68f01218cfafe88a85355a1f515be3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0xe3e1b87859a7ac3d79e9311e35442f8f9d8dedfe",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x62adb8f535a19c1fdf24f86f6eba50857d37fa3e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0xe8b90bb054496175f19e98a88128a083e54d2b99",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x817e0eb0693237a4e2dacf6da84928b16c5ce819",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0xd384a7ed312ad8a6915e2142834b38bffdfb000c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x4f2b260cf042e4fa4527c1d2fc1fd07310c4382b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x87ea8ae579ab007d46e66b3bd2bd045ea9cc30c1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x01f7f2c598e33888e45d0f9eda117cb1a88b6873",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x4ae4875c6f2820490bfe54f49d8f50e075947f03",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x84a34595ce8907668e7dcd57ca4bafc5996c52de",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x4c956a0adfe992ed422d0be40ea488f18bf66a67",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 6
+  },
+  {
+    "address": "0x079363011e1e79095f9b640b3c281c5c7b364425",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0xe71a7d463f78b5b3e7c2f340e7e3aaef7ea4b60f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x0c06278dcf5d0ccc3525de29310e5e454c68fa78",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x78fc0dcd9601de6eabbbdd24b28b4749c0ee6100",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x879db05d6614252551700685a212953f358865b4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x1048c9e572fac450805675de496e83b038cf228c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x106e83658fdbbf259833c8de958301310a841997",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x3262172701fb53d25412d225513d825bb436df7d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x66518476a70e8931324c4b826edcd8d0974b82ef",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0xe4ad50aed9724859095f625f18cb7abff20969ab",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x7cb0f1f5ec42cbab659d176a20d5d99c87bf7f0d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x71367f0a6f44b25e9c73b48f952f17b5f227b6c7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x00ed7fbad3bb36f9995cf413c897d2b0bdcb47e4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0xa9f3a05e8478b166b93798db03d698104c2ef090",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x5d16c65121d1bfb90cfb49ef6606be5da9bb28f1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x8f328fbd289f55278271d3ebcdbe7bc48fc9b7d1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0xc34c88df1238c1daa240526e1299e3f7b043c166",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x87be4ce16962332982f99d33dc78207ac6d6f47b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x0175b01d8ef9b494888d6babdbc4f6d89f74de65",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x8e15b7f298a86e263bf19f6cb1e13625431a8548",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0xe4e45eb07d1896828ddab79a423696eb9828a2cc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x440bd6e7705b2f6a7f72c1e1836c507e7031d9d9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x54372fd91473e0f6f8507a955cd45de9b9d740d5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x36c9fbec6e87bb002aadf321460eefe88a490bd0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x80176a3e31f188fac3397333dedb84794b0063ed",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x7ea891aad396a0cb8231044871a466cdf824bb2c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0xbec7b5f822dec7bf6d03e29097271176bf085666",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x3d817d4fefd4ad9fe7e5b264ee98522b792eb2ca",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0xf3d2e6a2539353683e0a012dbb266779d1025ac1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x8e0a44c13868b3362e7c390543ded1f06c0d0d1e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x882d3fcf7410e08a81b44005cb73137c6eb3816d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x57524efc73e194e4f19dc1606fb7a3e1dbf719b3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x71824acf16b20ea5cd3c03e10bcd5e30cc10c22e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 5
+  },
+  {
+    "address": "0x345f0ef28c4bce193775cd28bc8900852a7ff960",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x9d173421953b3304dda7ddb236da72ae2bbe7115",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xd331993088f17c7910ab99270f06a747086a0b0b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x8fc41205ccd5a37638e47b5b84e4fb50dd3115db",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x3557aae66c86064a524b313c615c1988834da694",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x703229ed8931dc5e88822d62a6f8467e27bc44a9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x708f46d4c6837449aeedb3d47c186ac937751fda",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xcf2834dec5bac5c86545cd928403c512a7cf45e0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x957943ab3069e6e79ed0e39904adc00ed5c2c80f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x7ed9f606b2738ae16e59b7b2b669c3ee31ebd5dc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x3c13dc60dc6d5fe9f465552e2177786973a2dbb9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x910199bae1b24a1a943abfab8524b012ae6efcf2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x01fd173041501529ddefbf8b29b070d175eb0541",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x2077cdab8af6be537560236589e100a3f2f9e3ee",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x6597cb2a196bff57228f7fe6c92b141aaba743fe",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x3e4e0b25e486e3c65a9373b31a0c81574f4b756b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xeaafde3baa360a8271906be79aa1f404f4860f12",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xe99df2e1d3b00be31f444894831032ea0657925d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x2a0e1586e8998228bf36c3c4a13692d41369fd82",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xc6828f7219bc9048bf82e3711c9f2a3bb5271b4c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x87fa7393adc451b8c5114717e8abfbc0afb976d7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x7bfa22908bbd82c440cb09bf23b33cbea9917c64",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x8f54d8cd575dc6c3de46a9075e3dd86468fefa41",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x9c03eaeebede7994a17f3b208573bbc0bf23bfda",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xb56a69894eb3bc01a949618f695f9fb752c60740",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x9fd1d4893921117e0dc3b75fea17044ef82f68d7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xabdc6fce084b144eac7e3bb3c90edeca9ff9f026",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xcab7fbaf87c822e824452841317dede31f4aae76",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xd2260fab735b9bd487253527af53b0f1495e402b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x0fff3886f43be4f524d8af1a9aba713683e57755",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x80ab296975cb5da595d28c782ec88db767925d19",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x0ef85224522f5ebdd6bf39817a8d9efc07012418",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x1ab608b76de67507e1d70441ee9282fefa17a334",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x3bfbaf197495362c31126ab2bc51a8eb1a7d9f4b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x2b2248e158bfe5710b82404b6af9ced5ae90b859",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x1695e3cec37e16ee9b632ee1e207c38348051d7f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xbf7d9f6f8793bba2b2a2bdff97ce361a08d4ff18",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x3f86f18322a888d9b3adef38f127c941bccc014d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x5b28a32aa9f4a287af55f3e5a408523a0c21f8f1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x45bea299da1307b7980e650007cba1e97573f0bf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xd6b1d9420f49ed6bc330ca6fd16e98167276914d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xb3a7438f37581af7b4a2bf4df0fd7b476f4c5cfb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0x708983dca28bc3f39e7af4b3c67509c505bf4fcb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 4
+  },
+  {
+    "address": "0xc439efd67cdc7545c802c3cad354972e2a9f2350",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x8814c72a600c70ebe2e0afed34fe6323c4f8aed3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x9e3c129d5caa38e0448f29862deccc02028fb3c5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x8fcdcfd10e195afd89b9b35c5face98ef3f35d10",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x6e7e971def0b0ed3eb121b4a567e93efac1c7e6b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x0be407686ccf712b04ae8d1f10dcd898aefb50ab",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x44c2a80f8b924858db469a5b35128908e55c531f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xabc650ee4eb7f81603e0fabd87ae7382d2b979e3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xbe7b0536160c99701a6fe9c0e89c215e2c413baa",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x606d12ed6dff913bdeb5e03b0349dec6054089dc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xfeb72595246a155d9eeca4abd925e7539ffc16fe",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x9922f0048390bb6d56c76273e31f467afe2a5b5c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x2c4d8702eb9856289eaa4c47a1b7c30432177e44",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x4ad908c05139d3c4e349da3627dfa31a9faca05b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x1b1ed4fd087ba35acaf8376768027a808ee6ea88",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x69d62b87d953009308ad4a1f538102e27ab78df5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xf9fd229c2f3082e433b169c3a0e920725386ac92",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x0d4ce92c2707e979bdb2da6d9e735a0f48f70183",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xaaf50052b3f500043dbfc37957713b0792ac4481",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xc05b1022947220473a4c7c7dee19286d68170f50",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x9a8842eabcb352be7786dd0f7f97ee941b3eaebf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x975eed912b50de20908b2276e4a3e379b102ecad",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x6af309a8c3fab43be169a839c1d7ce0c39c6e446",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x18ca9b9e10d7432c78e933120b38312551c8eff6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x5438f01ebba17c7ee279af990d0a8a02267833e4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xa86e2c1917025249c80af78ea7ea8385e7f683cb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x55c11c090c7ac9f122e1222be397214884438395",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x5b27700e7d4fc0ee4c3d407511fe3c1a1167aa46",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x7406946b9e8409b4171fa395c77de31298125055",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xe6787a6ea1c9faa825c26640cca4b43c3d8b8d95",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x0cabdf4854cadb54c235e297b5e40ca338f64c2c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xee5de9939059b530d3825f90a16ad5a5ead4a741",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xc1439a008ba2d8dba8a7b6c2565cc00831e6555f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xca3c89eaeab721d3ee13256f42d5857abed96e3e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x0575553bd6a6ffb2cbaa9a169d470acb62b77037",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x8b157bb7850e22fa9f94ca00f8ca135a03219786",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x7b709038240cc62140003a28cdf084621981d03d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x1c478c249b7080ab535b61c761665bea54ce0522",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xcef4314105cda671df719f71c849276cc8e3eebe",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xf5c9a7146c8e227c4fdc11f61981ea306195b0ec",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x1768edf3f4aa49dd92af949e720f69b219968117",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x77d854c0506f44c2a4ba0aaabe3713a81455fd80",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xa723e96c191d24c15c5ec9cdfa54adfa84ce7814",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x80f1f0526e5a4ec733d24b4a4bab85ac15514c5d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xde778c034e96ccfcd0fcf5a5bebf1f71dae07aac",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x0430a123f37b96bb0b8b33784158741e12661581",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xb3478ef163efdd085d2f43a5ce880f801f84fbc5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xc1010efe84abc7f86d9bfb451d67ac76eda7783e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x5482273451c8fab8588bd58a2f3d6732e911ea62",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x2867af1501e40181f471217b0c95a5e2948fd756",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x393380ba0947ff4138e02e4478efe0f0b68502e7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xda2a91ee6d0001a2b2b9b437a1c73138fb0e34ea",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xf0652c520625e49000a1165d83bae172678e6ff3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x61358523959c78896db6afc9d006420802d48558",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x1832a700a917f5fc184b5ac2bf47ab836a464b77",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x9bbd60bfc8b283448109a486489e209284304206",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x5987a436ca03940f3f42a06bcddfc268f6f7acc1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x4352f889b8bd89e0d21166c03c49368930992d25",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xa72b5db1be021d9c5ce1fa3550b3318f554bc0d2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x14929281cb3dc7f7e47c95a977c05ed4b85489d0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x3f4f476175fd6edecfa5af5138bc37b79f14ab78",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x309981d7dbbc4e494a752d9e75dee470cf3c9199",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x962820f5a960989b8dd9230a6b0bd1f7f8516aa1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x0eea1b38feac3bf0845167348c48b8c62eb2f393",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0xa839e45b0d5061c3885ed4ea2105581bf5f00a0a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x64b7c3cf2e7de7878c729b05aabc1113e3d1360b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x75f119589d1ed65effe909ee910a8200f04797d3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x865299a0de7c3a3ee2fd858efce3d083c422c55d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 3
+  },
+  {
+    "address": "0x393ac5c4aa62243a44495141bf45976a818ae139",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xd29637f8ab4954900707b35e2bc13c651619c123",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xa7b9ad9578e576e947dde7a2e87cd71f4ca6d065",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x657d32ac29a892ca9278df1e43cfd3a44a7a138b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x0354cf96c36dd38cf43dafa640b0172fb85dcbf4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x3a1c3d17e9dec2b11f93660b2cb63cc21da98795",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xc21259f62b655ea4c50e57528a01bea0c196d8e2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x6288792055c6ab994a359e36109097a663e2173f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x3bcef88c136a9b34deb6d6bcc2d28714f9088797",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x1b49e316746d353034d76a996dd92fb72be68a46",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x97bb9c5b2bdae2edf54741a8b135ae8fa2b95800",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x3065d2942c735600f4e195235e61b32ffe7923b4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x3da81e9184560247e785e2378a2f6e5326262f37",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4274da82ae5b8e21ffbde8d9cb7d927e2e834486",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xc5932a1d9fe41bc6b96b793d8065218dc5c04400",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4c54a192810d990287be53216ed4ce7bfdfcf04e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xc4dcefbc24bcf5c1be3e4c40b9f1101adfe9df41",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xa8bb7cc9619ddf44707a30110af645a370a0509b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xbcab76ad3580afaba078cabe315793ee9898e25a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xf8a10dafcdb034d3de81d2a945b58ade734c0e81",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x35eed5e502a0b0985907649c53819d4d2d23339c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xd5b4971fc6ce0d0fe9fd435fb329c0038deb38f7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x6cf5055b844d8a2446780bd568a8595a0ed0825f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xac8df35d5515ada27aaa2b272ac05d38efe21236",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xf6dc463f26715b5959c63d5b4f6d171e2fbcc11f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xf53edfaa94fdddbaf744195f56957919596134ad",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x6cb4890d712c91020df2e62fb7bb869ce6ca3e8a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xbc0c19235d263aa6ffe8a4dec7901a343539d7e1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x98f6f0b28634e8414b57b9c8922b9ef4a2d57889",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x639ee72f4f2c37b5f92d34bb299d2483805852ce",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xbd5102715b770331751b57a76df21be4a7c7a8a8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x1fdd90e0f6692efa9cfad13a77abde49269f03cd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xdf66c9575bf97c29ca5511e5abee50c8e041f30f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x78bb8db38f1b8b168a27bcac77ce00d6e5ffe4f5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x7330d196e5dddf7c4558e38f78ba4fa0c4a88601",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xea1c81be115da9ba582e0ffe3e5c66e8aa0ecf22",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x58077bc939e7d5464f022a483b53ffe3a0bedcb1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x69bcead9af187dbd3612c4d91a5a38c340705577",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x9fb6d75c982dc06b67523a25eb90c86461225281",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x44239db3d29828d05227b02c2e5b23a5c6919e44",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x70350b3b53987393c5add98c0d08698a0ae3dd4c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xd386bd9a44b9b72bb58bbcaadbed2eae8295b949",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xd627c1f710f54a741dc2104780005500b9c84b96",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x06c5c9d0b864eb1275c17df976b70e3459b0d700",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x9ea5b5424fd934a5f8f1080fec42f0d09a5842a0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xdf9b6597228f3ffb36346cf482f27f7e0eb6156d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x2ba51d96c0729325008dcfe03fca196cba7ca5eb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x665374752d5f83d995160e9022715adefcf2bcdc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xbcae9454240181f92d2e5f60103bdf3c2cf0cb42",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x00c5f303bcff2fe2de6dfd523562d27c0ec34a9d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xce4d0d0eb320813837aad25e4b6d5df10fcd33c4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x93c0649e4346fe84e109c1c159777fc965437b26",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x1b1f11d353555a3e8082353483517c1e9a110ced",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x6334c3429ea0e1379abfe17703d763fa0021bffe",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xa07850a23ec011ef1ee0217b256baf49b079d46f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xad81e01b66d69f45d557d93bc746bfc3db85bcae",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x73fc993a63821aca3e546261eb043f22778ef60a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xa970c3fedbed53e3ff7e23d093070f58a2e89024",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x3254e452ba6ab712f3d2f753af884f7942b66f14",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x1d792d49e9e3453ef2da3983035780b7d04ef2f6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x8aa056ed37f0e984c760966ad0c6294028a59f6d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xe4c3f04c276b74840865d90aa1a7409c13e6feae",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x38d062a7a001f51d9583b8d58f095ab3f58a8ce0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x8c4d210f5fa781d83e18e2fab1df87c99e8e960e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xc95191fe915d224af1d0a16e2e722dd996f52dda",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xe27ddabc18c7d9a937dd5f7853e7cd644b482ad0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x1dc8e9758ce04450e6fc26d22f1f1f7c21f56d40",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x69f9bffb3d8e900564e5aeba4fb99455e26cd4ea",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x726dbfa46d8b51567b737213671ab9e17276648c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x46234fccd57237f421070e23c509c8d7f5c97022",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4a885caa7678ed8b64214dfc8932e338612c6592",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x427a7a86f0078bfbbed7f733c8b7318f7887a947",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xb40969f60bfa246a09593099dace2ddd543254a3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x5efb5890673e0d0de323419b5a88b459a6c318da",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x170e47b365fee43bd9107a351b4acfef080a4e3e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x8aca6e1c7225ccd62e1595b24fabb3ceb1b50ee6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x0e7295e7a8c11783fc82bc6b333dfd871d27c55b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x76e5a11440741422207ad837d1c4b906454dc5a8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x5d74b3e72b64e3a4fa1c20f3f9cbd6027af1b0c2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xc43b3d7d1009f859e3877f1c515a8c7407cfb896",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xad050bf165033dd1b86d23a75504e079b2053f2c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xe56ae3c38cadb1993156ee25bc96418c514ef1b1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x2295e04e251efd8112e76f2cb59b5b9a37c48b09",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x5529e0608cfc0cab5bb86b59cba7e88f0f66dfef",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xd5494d09a17d14a3e0a0d39988fe6a828067bcae",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x232209cb2f4a4df534a54d04af8b77f6431f496c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x207d4af00d8a52c57abecc0cac0684a4199598cf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x7ff9b266f8777cf6b779164eba5165b07fa18447",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xdf983a1266369d4437b4eca7c7b743ae1996a526",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x57452f5d9e274de4967128be18debb868436d63a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xb627109ea7aba7f5d2b22ec49843df2c001d5958",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x7a0a2e9943a6d22de519fc4c835ae67f8a110f48",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xce4d27b3060f29b0bb5a36d80040c121562e43e5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x81afd643dc8174bd54c60b46a7bf8183c7fc3712",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xa5df3d13c378ffeb0e19a557b3bcb7df16261b3a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x572fe8bbeeea30ecc1f883619e88b57bc0c25a7f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x20db13a249659c627548fb9783d19c9208186f36",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xae292674431aa712cff91c0c3c96aaf04db1c87d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xf8cd4e2fa675508ea59e0a38f12dd9779618f599",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x8d668026f8ff7fe5d8d72366a0c8edb2bf72e0d1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4017e8df4369bf7c09d62f3d994230167aeb6ee0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xbdc2e69902642364d900798c461515d6db9fbef0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x11399f9e0dca2f378df126ff8d15cd9396c559a6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x0db0960e1e358875c5a39a2422425a8513dd77ae",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x0fcf9f7e1974acb95386a5ca9f1594908b449264",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x390cadf1d5604871ae650b4a328ec2ea740e9b3c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x6b9c04d707a4b3e9fabed5f9db1a2c2e42255bb7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x096684fbf1448ea9f2edda07b4126b1f267ee0f5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x354d25bb83cdaad837853edf5a8395833a81b93a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xe8722def9a887fece16a3ed9ea59c7ce2a34790c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x846886a0342e0097c8c286eafa4beec10075c16a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x9c0be25eeaf97456011608e713d73cd29102d393",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4c2a9100097de6c2e12d576d72c195a1d74c1ee0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x1135cfa2a6bc9f30ee2c13c4146eb205a7b350d6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x00f26d1e205476e33c9b95eb51acf3c04aa3d526",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xb05b4130d1ab569cbd92b067ebf26faa697563bc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x3736ab67ff654e134f8a708bcd924961c224ebc4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x13741d99d0f926c47ff34e019e6cc88b773124f9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x5252a3c0eba07bf5653648165abfccbe5feebce3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xe455eb3c10378010dc35c1ee9bc75a5b93dc8976",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xe540f6ba8a813b378c7186ac774d7bf600467584",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xafacef938de0c54718d44f768a98ff75a429b05d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x481d8ed46d9df32b2f366abc6d983aaf0042d962",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xf9193ec28e3bca91f66265e269c2913625293c9d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x827a41635ab8be0ad6bae79fd8faf8926b066f18",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x9eb4e2fe16e87f6d66d2bac03a3dc1a1b31c340d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x100cc859837de35b69fefaa1c3780ae0643264d9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x03760d67ccbb6c352b8b348b620e62c92624ef28",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x71a4dc282e84b6aa02722085ddf495a2fd8a121b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x955485d91ec0d8b46c8f6f7832d706d2a34d0dc6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xa08806ed3acbd9069848ee8d77f70fed2fdc237c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x90196f3b0df5f6572c861cb7acc79baf8046a8ab",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x5168403e3c9f1b445fbd8116f4a81958e188887d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x9879b0f714c16679e9ef913ae0c199652dd71a78",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x50a21fac563f3e78a34ebb2899f3f256c6062ea7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xf1615ebbd9b74948d8063fefefe0e7d226439472",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xe56b405df56ff23c233f6191866075756d68c9b4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4dc4a2bf4512c4fe421dbcf938d3f2b6e8c0eedf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xd7180afbdedf3bb1466fc703e4dd4daf01811ce7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x2af635bc8969df6190e65daa9bde667f08e3908d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x7146d4328a0c17086df52018f4a1871c0e3d3924",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xf84b3267a57edec49b049f8844a7f041385597d1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x267f61f52b6ad5bfb3cbf32a124798931afc1c86",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xf732ce6fc2e24fffbc4bc6fe028c71cfc02ba854",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x2846ea37087ed18c633bfdddb78a21ade0c4338d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xb00ab1679efe692832f526bcc4b36bd7fa3d314d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x78df075daeaa1dba6d0491a3042e067d5ac29e05",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xedf28d488c7f108f3dc01adf0db6b7e7de41a33c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4a3b363032728fbf18401a001bb3a47999b93c0d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x3d8c3493b57d4fc2976d7f75180a226826e274b4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xda7ffb6a59a6986a434e0460c0f255c123e62c19",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4fb0bdf955968bbcfa3f2ec9602ed7bbe6f5d5bb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x105e7bdd1b1010299af15e35b7b22764715dca3d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x8872f7b090ef6d2bc60b964867fd83960988c7a0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xa41824510374f7cbf99f10899dc4253de08a2e66",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x7000d45abdee5c23eb4184e7e9c510e8bced9efd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x36a51c5739426ea4fc35f774f9838d43186a700e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x62153e3ea50c26a3836f8a9604f7b4fd97d7fff4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xcd540d2c7ee7e822b846b40ca4f815006d41894a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xdb1e032c6779c1c2999940526c06394901402044",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xfe705ead02e849e78278c50de3d939be23448f1a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xd870f29dcb549b3aec4bd50e6f70e602e7a85f2d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x8a479397316fa3691d2a74021d0d093dadb030f9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x06421ec331ce77739abceb8b88d6c98299c0f47b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x766caf821853696b16e45f3052273bccca43311a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xdea7b02afb47802a38196788267a865a041c5c22",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x4f5ef7a4c57faf6017f003742a68abe12b65b589",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x2d5c111fa7e88fddf3db0df891f5cddbd6fe5ea4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x7b35cb6a5d63c08d1637efec8eb6ce188603f6e7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0x69b6a4227112d07861b282566d77c28a34a46346",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 2
+  },
+  {
+    "address": "0xfd12843dbea265cc92d1b32750cae7a89ff4f501",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7b3752d0a5cb0e30eebc368aa63423dba60efbdf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa4e5e5bebd429e2488ab1407673b09153dd1b882",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x37903cb4a32f01f8347f42b1505390da518d5ba4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbf66744e6c168272be05584f80d1229f1013970f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x57e8c96b30fa0aa9a352975ac2de505d92e101ac",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x99b4d10e8fc3d4f3671ce9f9e7213fa8b1201b56",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfe3bde4925ace965c2f148f967c608d8b543630d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x45fad3d36fa506e7f955711d6d0dc94a5be8f4b6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf39d46a43eff44215acddbf6e10db8d05dee0cf8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x35102e2b05d35d36510d4c04414029ffee60572b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9bb4cb5fa706f2079c3bbd3488be05ae7eea2c06",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x14ad85c71d2a842434c951fc1a1c4301f2a6d52e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x34d6f9fcf1bd884c57a1a48ccc6e8ed1eb9c3491",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7cbfba2df648a925c93f431a23162c85a9916bf0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbf6554783aed99b39a27e60fc456a983dbeaac8b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2755dfae2634d57dc1c8ef8132beb1113136cdf9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcb8aeb7afd45dafa2af13d7e28074e3ca03ba54b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8573ddcdd9459786231fa151b58b51bb7ebb8070",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9dbbc56dadf03d51db04361d56b91b7f71fedce6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4be6aff652a5b6753269161c6f6f4b80424762a6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc43e5d27aa76e1c32a0896aa4cc6d985ffd73af4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf2553627270748df257cd495a14055fa74992642",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xebbe05f721b2aeb233a13d612a2f88129598fe4c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0b842cf20c287cfa060904b7593a4f4b15afcb7c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x453f20bc9a029083f7f2e166c28a18212e84fbbf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb38b2ec92939f47521326f86a93fb4053235dbd8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe56d0b03eea2ff9e510eeeddd9bb64b11e15f979",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x571bdd2fdde1329d3c19ad29ac623964e1d71014",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7379e6927ebece670cba86d31c9efb8cee11daed",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xed19cf455842a9210ad6cea042dabc9194ac6e88",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5ce087d7a8ca226c027b0a9a3c62cc6a6b613b5a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x236b3a983ceeb6bef036f7ec7abaa142feee9e38",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd9a1278ccd8e35ba4a46e9702ba8448bd86a1578",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf3b5b36d555a7bf087e6f133341257d29a8a8f21",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdb09c92ce8b088b5ffe770c7c8777d5be3b2c1ef",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x694db70ca009a49806aabc44c47ca5ec69d7a712",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x669c6785639611f92bab6d2318831b9c3b3fba7b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6ec2193d278bb0a4a7edb2bed0cf6452a2e97739",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xaaaba1658b46699be3674cb405038d1752c4d253",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6f50996281a82f35d779efa39c925a1039420c07",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x27dc4fd11c151b8cd9e6ab2b7d6bffef0b93978d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6afb74f2f3839b39d329872914c08e5f49a6994b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1e40540f6eba9ae85cbf4486e18cf8461b162af1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf82ef19932f5297655ef69774de2a2abadefde9d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc3b100cd5da45fff4891c20365f5a0e456bc49cb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x484562740c97e67382a3a2ef9423474752936339",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa160e89117daf8607e39dd2d7a265b0089325af1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xeaac628e0c46fe4a1f562fd8d2ff1951f000c5d1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9844dedc09b2f68899e8eebd68718bb2e1ce7fc8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd69eecaf9a747aff01b12daa3f07175a3a13abb6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd0232776459fdf134ae7ea2e5aaae58904fc3bfe",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfa4dc543531b5b176ebd03209d4b18b575f76a52",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x50aebd8ed5d372d4d52e7f1b7919eb3bf116f98d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcb1f1cc399a793a9b928602f8fbedddd922466d3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x034c6bb0caaa396e88bf20d29912eb0e1735110e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd1bbbcb16b152d80173bf14b77118b737296c4e1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9e352cd0bd893d1b0cb783b057fd68de27ad3c92",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe11bb656d623ce24e3001243196cd50e15a3d7c2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8ac0012a3a3f02b5c89e8bf4a9b7cebca0732d02",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb5ba25231cb906e68e4bae0e7bbe6ecd972be883",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x90c4bf2bd887e0abc40fb3f1fad0d294ebb18146",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x05a99aa70a5670319eaa572c628c75903568f400",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5e1576b5ef5633e9bd38472f75001f3c73f1111a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4e5166be01ebbd34628ea6d1d104c874230f0974",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x096f0957c656d2e03fd430669d9c06bb4d738773",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe724000f8e19f503a8d6a8bf5920a59e81c09aef",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8970ab823660aebd93dfc1f36b9db56db736d660",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1dff0bd582f4d112806453164e20f779caacfd28",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0840479270efd9ac8459b0cdc929a17fba765550",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf7c2d10f461ddde71d201e1e081a28077d3a6323",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4ac9a97b3edb3f11b5ca91d8de9468cf4882a7af",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0de2cbd057e8cfbfe312b91945e9856f277e8345",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2eb6acd11165f7725bcb554e33a47a96308b62a4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf8fabcce0b40e5bd68d87e098d9070d11c09b5f4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfaa866ea5edfb15b3a7e2b4e97609b2ca4a6ea21",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6627652c8f6232b53e64b9af93a4a8b6683a7fce",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc94d81acab9f2574cc424aa5764da484d856a4e3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x56879cc88fa3895c082c22035db1386dcac53bba",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8a775e5786d1363a6ca457923949b5ea8d642b35",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2e918a8529e58494ff1bc6a63d9a425e113044c3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7d63083fb3b683f585b7f3013dd95c81e64d8bf9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x88dc4ab185d8d7a4781a034913a528446ed39a13",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6d2a40d96c35a1f9747dd71583e35faa479ec95c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x58748fdecd2efb8fec849affeaf1a04a4de96a9c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x509bf5a53a5b7b99a56e0cf0cdbb2791477f0fb7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x86bc1a870f67b67685bbd324b1a85040d0f9e6c7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x522170e231d8ffd8f0de20ce22f6b36a0251d931",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb18336de389f0fc82839bd00da2a7c2157cfb2e8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4bea642ef4b8f4373162485e02e96404532e064a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x81568b1959023032569547f77507651d78b5d37e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8cc6ec791cd66f47db5c7984f079c7e87c6325f0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6498c2dd6b883d1a8443d2a60f9290e126942ce0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6d7234bbd9df68f5cbda512808ab5fd34ffa991f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x155ff2ade1e8330bd710bb699605d3989f810679",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfc8993b6f0b0cc8934df8b368fd116cdde480f5f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdccb7c49a27353fffb597f88f6662a92b333dab9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x63b9e4e757fc107250790a10db00d6e0b18b2f39",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbaa89bbf223244941e92595a76043d6eab3d8309",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc4b20dafb30d5bb0dd63b187bf74c30e4fe02680",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5bc4134ab3e945da2d853663e8963b4a0cb38535",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x47cc04d208784c08513a96a8a608a36a821ef309",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3c5a9109d1b7b25702720926a06123bcb688f9d8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1e948cc5b229684b7a00f91934698f77ed085a80",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x483686c08eeaf34e25a0ec8e1b615a59725272d6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb1c41450cb8a11a7e605e8be5ca30a4c9c9231c9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x68690c2fccba939b8fe0e8b6f45f38982adc9778",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2687dc68f9e5f40a82fcd6f75b2f47e6b11864d5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe9de72e881cde5b6573eea0ac19cc2aefc65cfe1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe4ad2b7046a607bf4349b421448a1e9d407b6818",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf83df9e5914c8f304b54b3f0a8c41810f2db28bb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe260b8e11bfb9ccc677d3cdf00f105c1e340fb8a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9a91c2ad7a0a5102702860fd80dbc329c999098f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf23c7ea9830134c7ef9a676f337d58166d4a674e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x08362e35731ed257bda68c670663de03b92f4fc4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9b0f4f79bf421ab9f25f955de687e4fb59745c2f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xea77b1365d466bd900e9c3201cb29fbba9c21020",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4f2278649b9d56b1604d18c86a2cd737306cc2df",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf892dcff83bcc97c2eb1fec8e76c5b2f9d4a8e1b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe7036cef0e9dafeaef9385946b9875eb2b7e3d4e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x847c61ad02cfa4d0478cdb834bab0063de4be33a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9eed98a35c7482b11b2aa99aafc79b1744f133c1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x16ae8f5e0a55018707980189c9b314dec921eaf1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x98edc884d94ab19aa235c6a58af84ff19538a237",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x66f8195745387eaae67e19a6ef0257b40aeb8124",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xaa9d39f9a6c3cde9d2785069adfdf29302186772",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x22e941a3c0d080630956cbc00491f099f0d69938",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcf7f891b3ec8388d594489f5f2de12c7a99a6a32",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x25461db18cebeee8e11c0254ba0f087f00fa5fd2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x633f47bda0ff1e7a0d8ed8e667bdd4cf0376347c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfe15db3c7a9b6426a426d22ef1c3e93cd51def3d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa11b9c4be8b6f4cdec0fbd41330a9c55e84e4e71",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0a6cbbd8f52cbcee7850806ce03c6034966be34e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbb52c89f749e91cf2604325871f981ec9698d9c2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x644131db40a16957a39af69e7022b1581dc1fbc9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x71dee7b54477f14427a2b52a9de56097ea2c8203",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf5b78cf6c9f9c0bd4a52a1bf8db039b8b9509bae",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf00b3135975ecc4dc9b514668c131dc202c61877",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1aaf2bb5f37d26bd981a886c6ed1b389fa51f12f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x236d90c5e010761b9c9792af531c1bae5be44e5c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa776f715d452b024665bb0b5ef050b720f7020c3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa2f6196c86f569f88c77a51a3c1f52f13aca98b6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0b863be677bde432e5782eb990a67e321cb7086d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x88eb2deee131291dd919859817738ec9c53caf7d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x23ee0a098abf30306ec90615bc5183dfd77fc97a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8d5362df650c64adde2eae7c5039027bfa4d3144",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4b3b0a6c0bacb088b6b0b0ba31bab77282068117",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3ebdb522301913a5203315c8a840a9ee99ce9eee",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf3af32dc42e73020dd96d4da37fc12f4d41b6085",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xee84abd79ee5bd779b22b5fe5ba3198b0ba57484",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd6d662c50fc1e797e488f320c90e563b5017c5bc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xae7155bde48e0d2b7cf3b6e4276401de3e800b65",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe96b0530917d6e33467deaefbe58bc51f5d93f4a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xaff121e2fc88e04cd05cfefc2cca54cd8169fbf3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x54fec3c222323864f363cded23350fbc48c11f97",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x02e3f540be055029cd072a46899e61eb0d8566e8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x640130256d2acdfb2f15d033c8413d46cfcf3dde",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xde8984a4ffdd70c9625337e2ea2773593c705250",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xead6bf2a896d3c877709ae8a7b6eb3c6b514afed",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xab6baad1ac066c3855021888742e80beae2c5379",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf6a17e077b8ecd0716880ef4605641c642adc328",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3a27c991bca45620d96abf882ac545a295e35a9d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe7c4979926c403b1e288300a0aaad129864e5382",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x78754e512aafd2b3b7cf1abe733a549713f67de9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfb840f52bc6bdb3d01d9492c92050aa012411410",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdaeff475b2df914f3aa40086b803cdb4958561c1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xad1583a8049facf3ec9c032a81b8dede0db8cde3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xff920b62f1f5da7664c1744f1f2dd0b44b9c2acf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x98d8268d1e4a2e3498f9ae10192a5ea8c8eb2ac9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xeb242cab8439c222be36425728d6865a45fb42dd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa688810b0865fb0e889240dff2e125bf31be7ffd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa31d42226e2e7293d2c2acb3cc719337edaa069d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4283b02e431774182cce74047bab7a48c6135d67",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x413f34dcaa5a44a73d9a680c573082e0ec7a7082",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3a219f3a69a415947c6b5d9810e25bd413f0e774",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1b546e99cdada44d8d7b2fb889c649d5105116ca",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfe5d6bd223a0a4963959edf99b2ab0235e9d685e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xff4c83af0dac676fbdb43749a6578d4e888fa94b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfcdeb8fdc663ae3efe160a729690e5d513ced491",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfb3aef68bd15f38c51d24c6c62afb8385cea7177",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd26ad6eb84e9a8d93667bf66b2e6a03e4ca9e8fb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x48348c803ac7e07347436755db05b2f3884ffbbc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfc156c5d96e56b85e976e450f35f01a61c4640ba",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x611b80eb665ea4ff424ad8faec0dc6c578cac81f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8d24c274e5a0cf1817243dc441d1384b919344d1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xce0333b525dd4b75b3ecae456097299747ec5031",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf7c3788b5c9024f8a4a2e07db6d99ad35f457d91",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4acee58a62f96078fb6d298c5ea5b6d407edb468",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdba84467c81c7ccf1cc43c581629fe14ebbe0076",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xac0a1d8d5301089e98ff41a2608a5ffe1427b7c6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0f7ce0a0ed53ba9d78bb2a45400292d59e38a287",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb79f116e49dd0a8b5a1c9f47c9beaf7b163061d6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb4d64772218d36f97974e8bb6ef0d01b026c9a14",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2e695685eb910477a575a0a8e10d6a1e5dcc1360",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2cbec0ad40e9d5266651a5d26766aa211ddf7532",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa6ca98b3ff907e401e61d88d85c19f32f33bedad",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x42d7c7ac04a4924f7e4f24776d99345298276545",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x73de2454df463a0e1100785a328f9a0d92bf44f5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0159c7912bcafb0d0f4f9df7694326839b1ccda9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x80051215a015013419e3ab3bb35cbd3c265381ce",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x234b59d667f589550a2fde8ab0d747946c203798",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdbefee517025559e7898d3a48f18221c32d3fcf5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x936cfcaf6646f559a024f0f8d5f328699bdda25d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5acbcaa22023eb8cd7a334910a0191e299158032",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1610383f1500def2b9e981c223eb06d84f24d3ad",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7e33fe090a642ac7b8c08e1b5a506b5983667476",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfe0e4b9220b510d622e98b852068fbffea6f027a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x75872c384475117e8c19ba27e1fbe8473af9ebc5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xce693be6af1eae571b0f7aacd49d0419c1d4dcd5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7bc4ef25e98059f624fa1d0bb4193fb0aa27413d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xee1e5ff0ab048f500d7da4415169923acc467bfe",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x28c357f9b6c348d5ed10eaed001d318b00cf00b3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x639abd4063dc53c700cf999e16ac044198c5daf2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x69834e253507169e3a344fc1736c61b717450b50",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x43d806a32df954ae9b2af6724b4b8bde0b8f51d9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x13ac3689639fd42cf290a76e1995d03a20a74fd5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8c483385807c98ed31febd7d648ab8f1ebcdac09",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x76b95cc92289c98514f0513d41247d0def23ca4f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x933e501fd652d4dc0b161798b5a67b0c8b9a28c4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbc82f0e892003f4bb6573129bdda8e72824f958a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x01356ff99a458b6f7cf5f4257c611ef1c6fe5336",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x56a792d7fdd41e0592edc82bb6c57566c791bba5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcd1386160235ee664cd01b69ba50f3cd774c068f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x90a4413ea3c1911f55261c70f5d71f72d2b2fcac",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6d44dd7d9783a32b5c2076aeaa6c7677a5a50304",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf833739c0ad48b88f0278348cbda4e52ab7cce08",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2cfdcfe75338c06f18bd04ede3cf850c289f155c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x952e3cb0c38b392a6f0b6ee01e71eb61c2f7a789",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5443e21fdd4d8c1ff6993f2a87bb643c5066ef91",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd306026193227af95a2fa2772fe1b4de2e2182b5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x713eee13a1976c658ce7b61b22c3456af6550665",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xaae354b05e694785b4f158e8e0cb03e6774f35a6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4cdb2f4c80b2d7adfe0b7122245e5de93a7a9904",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x05a79bc4c0c5fc4a34c94f3ab8b6e1c6d76b234a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4b781bcbfc0667b4298c0d35fbd433e55bf1e25d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x730a92c8bc056980b67a2f6d6437ca048bca2be3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x383219d5e2f69b65185e84fb944eb555725d73b8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x159a0a058b5c1ba82d3b6471c73f21936d88a3f0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe6de2657eef3aa5b896632cc4ffdce05996eb3ce",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1ba9bb7579f3f2693f87b9d64aaf015469d6f140",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0176011201af1026f193064c9696fd3f3c5eeac6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6f05ba43673b5f9de00ba7d04ff4fb68d5152583",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x96d10190142db35997be23c6f6609de05923e644",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x532323481d24216ca8db9122d92bed5bdbc41df5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x03bb4214fae16c545ccc82a75fe190b3f1803152",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf1e9d41230048cec7b17727b436d75fd037669a5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4a1721c493c481b48ab05db82265e149c95ac33f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1bd3176a95632ec0801d4d41520926e70bfe2a8b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe957b0829c6ae6ac461d7365b7927e1ff604114b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf0b4a8e05b2073171064b22267eadb3e139e9e6f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xeecafff217eaa6928c0cfd89be0613c518cc928e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x17a8ef9b0beb4f40f97db6ecd03d491a9a4625ea",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd89f06effcb85457b4fb41190b5eb04387260299",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa92a2377be51bce93043cd9c36eb436772400c18",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x922309ed294a55293cf885fa7c2206d6b5df663c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcee5a9a6194ae100fd6c6aaafec994504cbd2bdf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x33fa83e5622d32974e09d5993f47c0ebf6fcadf5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x51e17f97eadb777ff5114819303d1bbe8f9e23f4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2823d6e92f9eb283201673aa5a97ec559b5c157c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x17cc165c3a87b96f3df44990e033d23520ca882c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x94a8d388de11058d7890f71c54237820bfc9373e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfbe0defc816121b88ddc32b09ee411c3d85de1ee",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8610fe86a7bc44323955c9a21be964004910480a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5ed96ed91bac52810ba162aa914d92db1544f741",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x183d0e8f9c23a72beceeddfc8fd3ebe72070de4b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x36bf801362695ba51cb96da42e688bd358423ab8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9791da1b553820823c829b52b98267be73c4bd05",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1331560e76aba4f42b406d4ddc95c510d723f2d8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7632e77ee316419e69c3edea50400673023f786a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x74d56e392d93004349a42d869623831dce398ee0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc5497c688b4da9d61150c7a6d6610dec76870599",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8b8eb0a90c53e890a70762b72779862ea36e2c9c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcfab68c22d86a944f0e4bda6f36f8d1b02725ac2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x09c34af24759281d4a078bc57c504e96eb912427",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0f9b7693608ea876d3a8a20ffa5447876c555390",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x533e408c6f6267ff008c7e22da2ec476e67cdad5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x473a5d705d11c40fa1fd53ec31ce664dfe6388eb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfd048d2e589ad0bde94d37232cc83d5fd78b7b70",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x140c56fe1360618da25177db0e0de44ca4162458",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2c751091bd3625f236bb94adbd8d711d1de91be9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x06f3895f4b53ff27f3ef2f1a91409f72f59a5407",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x357a15f1d5feff777fb38ec5424cc2605c091fb8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb3af7670b7313fc5e22cdcc7824637d3533f972b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc3e2fca92fb40f53a4a92994cb9cba6e33ee0148",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x55e980bf4c081c3cbbbf59cb4bd557f1eed2d75f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x01c1032cfa774e1798c8c706b00274012869eb09",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xba2037ddd464a70caadbdc8e1c62fac6c54f5790",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x906a4465938c34ca3b99a1685a00aa0a0ad373d5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe076b6a49752d3413ed0da854c021272aecbda65",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5c5b40cd32932e1480766df228023c2aaada85d5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7ac94fd9f1b94497d23f7b81964c100b450f286c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb5ed1698c51c6ac90265a2772b780f99881e8fa9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x71fe60a33bf879957c87331d59a9a6db75690f51",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xecab97b58bbf4b3f2cbf79477ac3d2f90e025735",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2e4b3e07c4255ea8250a058290427ba82c172b47",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3aff89488542a1b3301a88017f8b6d1a472abd2e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe4b9c2ba3893960e42474be6d1ce7642bc3f421b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x48126c48f9ea786e44e2da83de614f601abdac2f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2fd1d8eaa6ed1b424c2d03ce5eadde9f301c3235",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe825586ee8708d4f015371295b8b4e458f77a554",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x06d32e67e9eaa80969bc16c5f7f88010320c6cae",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9ce599fb49c8e5fee16cdc088df8b194cf417b38",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9585a11ee1f5a127c7b7985c2e91521e886b4bc8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x48457be3957f084b5dc8e504356dd0c1760411d9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9c211f83ca81307203d15b17f80cb6fdf0b3924b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2d112903306a0ad9e1820fe54db2bf36cc4c0042",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4129dd2869fa1190642fb8208a7764b208f976c3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfdcaf4f7f440c659503e71f18b945e84dfae6764",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0777832795d856711e8474ba63f9faef71467775",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7bcb5755b5ee81315e70e015b7034bfbde66cae3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x83bb781a2a2ca1fec0350f178c911848811cc440",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5b87f736e8c8e7848b8751626e3e70f08a29d713",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x14955e0c1bd247811101eb1ea987a4efdbf981b6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x38909d6f82b104f18fc80c6b658e93483ab7503e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe91b8d9aa9303d6d40eb6c1d3999eacf1adc92ed",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4949017fd5395ad7a183f4de4d7426c3c2362c5b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4b1b404b787b14293731ffcd1e9a2c0cfaf19f94",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcb57746a3179d92e1ab9da35d2a7d02dea77a637",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x130c6db73e22192fa4e5a1da2475f50278f4f325",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb7af07134f84b07ad02f236259f6e49e78d8ee35",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x56056d87ce1bd97424c63eb9a70dc98c4a298751",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x257caa046a30fa3459cd0a8af642cfb3664f4fca",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x54174e57961fd79163647c41ee7bc26de5a5089f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc4fb56489022d8e1f081a31905a76d8a44cdcbe0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdab13d338973dab9c4545d9f92d5d11cd3e1e6cd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6b454819a6c15520af9186aa1d6f6f9ccbbaefe0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc21da877a199a4c9e921eb8950b43a58ed5f3485",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8f6ab5bac76a285f90079ad754ef18e9ab5d6873",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x468f4c726c5da2f8fb97c483c56d7703c18545d6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x63a44337a04d7624b4af99f3797ce0aae2c3ddad",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x95b49e38b2a3140f5242d57f6ec34920601ae193",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x41a228d1d4081e2515a4af25817d0fd3213d597f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf7ec34e6ae9e75465b7558f546be44533e298033",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x89b0fb6eb9d83e6e50915aba19b92fc80a58f065",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3e896ebffe8dc0f1d0a9c7d55c1ca8c8362a913d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x85d4546af89b85160739c6ac22c00929268f7ff1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb5b350c101ae85caf14ecba64f66768d043054c5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa0c657d72e60825497cfbbebe2cf357fc1f0190c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfaedc2af6b926ea0faa0e8df75d78d54f8d63bee",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3f2bafde90eca5cb7970aa97087b7f5166258b66",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x06165ee55ac920ec770a368455ff026aaedd8420",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xff3dd2ba5e46d57d915a15951cd9a6b1320711f6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9143bdf3816b7d47616b799a42308880d418f8cb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa44c33da29fc0adc6a1c68344ffa07e1aa08182c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfc594619aa8cb6cc534ce06415bffca32dfc0cce",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x91f242774a5cc6e6ca5e92079d9e1b682e8cc151",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc8d375386ec576a02eca0fe5d47800b768895b7b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x70ec1731888c5ae530359c3068d77ee590507359",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5c9953fe271707061f97381ad0ee33727d69a63b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x20417891528f82436bb7733dec55821a091ce706",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x835169e940eb1dca7bfcc10e35aab65ff3cba91f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x03af4d580d163f48dbd2927af2a912102d6edd7d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x87bea6ff958a3cc1ad75a5e93f7ff8f6d6119f95",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x69af9de6ffb25175992e1d742d11599c73468cd6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x73826efc8253dcae05074afb3e8262d54476b0d2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x01a11cde91668128c5270ed1365bae1a1d5a0301",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2993c83bd6816740a25fa0c74a96bedf21fcf90b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x90b859252e248fa6be1bf31d26140d0f2949813d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa7d22efe9045766ec410fdfba2927d5374095040",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8ca7891974c0b2bd355569510ded635981160792",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdbd73ac651eb8d96ef23669ad4f5e4857d5b001b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd55b3ce2fb176a2ee8ea2dd225c708befe04fba7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbf7d34eb0403a3f3181cac1efee50bb0fdcb5929",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x248301cdc7fb7ca4187b71270e4ebc0defc1c58c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x99dbb7c5e171b191c639084336f3b9ed388221c8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5747f18f95f919f6165f872c0cb6dd59a60780ea",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x49ba2373e3dc2ab5e40db7b8fdd608c41eef4a49",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8518e563bc53772b726360bcfac3bbd605c1ad0c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0ef2617a5fc6f0702d62e90f0ae7c396c46dee61",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x644ac747aea628c6dcd0a523865002f32c1375be",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1fb008e12f98bf303097ee87012bf66d00b51fbb",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x31dca6838f814b508b4c23c3c9671242f9dfb572",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc7b1192f82b161afcb2f12e662fd3e646d42b763",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7ab3c9a3bc2cae54c45232866f1c09ab79208098",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x34e4645bfe08a303644325f55ab9916926a3f1fe",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x190fca4f1b6c44b6d185b09696ca3c7cec22c8ce",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe1f7280de84b84f91be3830ca437ee6fc548bb7a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x74d6274dbc996331352f14571661c25c9d64ea71",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x02836137a7dd87461f02d3eb39a74990f589f59c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x17a7108f7c6e8e28ea652d8c5929c6dd846220c3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe1c0b1ad8907a5b217bffbbb2ea0f1f49f829c4f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3eb1580abffa4a7196a7da351ccf069487632864",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6e7c959c7e8fc3fa3c938659499e49000dc11208",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x57ca892a9b7a071e8c1195fdaff8b4feb2d13a9b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7b4d92ba4e14bae7a5e2c92117ed86e40c0dfaad",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1484a5f45b275f7373e17da480ecc0eb3d9b23c0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x77e15c3213b0d869f0fd37c7a178ab8511b1f3bc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x440dd25d66a9bd4a120abe1106a7c97fc0e9fdec",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x32f8dd495c7da7c59780a4fc381e45b90a2f891a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa9f6107f226f3adde342be1269fa5725c069e7a6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf661e8c80eb5d29cb8428c51f5f706abd01ff823",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe14bde1fd483b5257d7e081ff461ebccbab2613a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x270ffe53dee158d1df1ccb9388a02ba184478033",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3ce566715737e05872e3c1ced65433aaca393fb8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcfc93fa896c5689bc2099dbbace3d03b4c2011fd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x88eda4bd30771046a774be5060fd5dcd8fca04a8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4a33e7ce41ce70e95ba2e1f12bc60704044f4937",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x94e07e6ad4a44bff7ccd866f19035e0680a0393e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6bcf4524a3bd4e19ccfb6569be81ef078f030573",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7a3adac194b5c45bebb01f8749065753c92e04b3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x48a6bdc59f9776d7544a8838522433dcb6449c4e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3fcd12c3ce485e7e313ba008cf711464b2000145",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x304731faefffa77d8e92fda6bdc1c08ab52eb55d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbc0cec329e9b7ff4366a5aa0bb6b82f1aa10aabd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcf50828ea4c0873c5aee33ae831c1b2e9d5d5717",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9776a8e6de5118de2f142e65217bce266cb48039",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5b7d73368fc2c60fe609f744cded1cdd5f407973",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5259d758224bbc8aee3cd0d792a84eeb58c7f0cf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3185c0d210449200d83f6fdb77eeda547562743e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7fa0fd5f0fe05cfa63f2e5e4fdb593aab5dfe428",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2058dc2b2a12c1c4d1334f1dba1638c9a1c8dca6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x240ef91e500ce8b7ecb661815924fc05ecfea1d0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x370acb4429cd5ead4f7eb5b66f7e8956375f3031",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x361c0eeed2f079cb8bb166b20722c23ef03de5a7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xefb8a81a490ce21b0e054c975ef519bce3e1aaa2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x66c75fad2e86916cf87dbf81e2a077b78bafb99e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdcf6cbe3896435e31c7c237d9537b27020545999",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa604323178a573504fa29b37337aea4413a74d77",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc2171454b2def8acc3411b7e0f6419044b118a29",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfed437c5b9642f69890dd4659d2e834251492d95",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x942060e5b1de43e694bc4cfc6bf7acf5938c8ab0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x02623aab448dd71074cb9221a7716519f7361a7f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x14434dba9abc93364e901fa33ee0a46eb5d1e098",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x448bc8b5f99c45d6433698c8a11d589ae28af73d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0d9d46efcf144a75dfd4c2d7b42cac63c9c73ef6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x626162f9ce9eb6c7b1b87ec4bf11f9b9849b74cf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5613fe8a0796ff3ebf0870b2d8eecd5d619036c6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe388da3ac86b279fbc4a2a4b16b253f1757c6049",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x70236f8f0a7ce65ac291d10bbdd3f2b66894be25",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0cc9c6ca0216c7534a901066a2de26788b35611a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x26007e07340e245aa388238d07e64044907413b7",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc821229abad8fe1f283e1e010c2d386d68e07871",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe28d0fceb3d18bdc27f61e8ff7b59e9faea50a2e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x81e179ef64c70ffe7e4165944285372461240dba",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5d22e3b108ae86e805027a3b1ac2524796dfbf20",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x195132cae2b87a77d11417db79f5f61a74040c52",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x06dd2396d18398c63ab6e8aca314bb396c658c52",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7a749c38f16388085e3e2356d7a074f18117d780",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6f1103b90cfa22d1752fc4027138d7c69438591d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xdd0b5136d9d729f75b45b535918363d2e2c6d24a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe48bcf4141513d73304d7267af005c135fedaa48",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8b21c9d967ecdc76bfe6b4934d14da1ce7dca27b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xff7967ac6a7f06e299b66a40a1a3a6fa29f5e6de",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc3efd2c10922b68054f90d2adc1784951156aa93",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x16ff972cab8347a10ebec2ab0dddd819bc42b604",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3934977b5c67ee020cde1edca15f50a75d48fd9b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc7b61cacc9e8007799ab8e25cc596ddbadd214d1",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x02b2c5524ecab7e817196b74b9f8e730f9bb9e51",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x93574a06935916c0a84cfc236968a7856292b9f8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x54790bfe86d409d9209da83075bd73d94e18a9d0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1b3bfbc3872a1b33f768114a97d23270e59a8283",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x9ce15890aabf58cd7de4f5f96c96ac93390ec7bf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7a4be2c7cc641be0d1546337fd8068f7a946ee26",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x68ac8ea309c48a9ab55a21ae07effad9b7524ff3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x066bf3a963385bc295b8eb741dba54c23d8aaaaa",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x08fdc3002654c93206c05f145f0606620e888888",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0f8f12eeed63717781fd3443f4c0341da5065083",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd5465859f33dee5b6157949ee339ce044c80fac2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2efe9666a0bf1f0c04b882b550352ac3bf427d2d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc8b4f779bf95dd0c9f9ac365ac1326dac6b0b28a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0912c901c474544dd276cf7c562e77e760a36917",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x882a6bba54bc819f6b511a95ca68aac329dfcd6e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf2b6d9d145428cd6710fa4913d7cb5a8d425eee9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8facb83aec9d41bda3c893a25fe7590237fd5dd8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x24aef1cdfc5c73830809d065a3a84a2c9449d016",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x781ce9fc22738d810f84fd5588def90f25224a5b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x20f6942288a71f6fa2973fb1b7c865fb819e162d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd40d3408d4c6fc1a75d4b362f1de1be1f2c632c9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb34d2e4b4fb6a531a7878f8e1254703f8c1759e8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2feeea04c729a87b20b92a058cb5da0883c78eed",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xea9c81883db39800b6d496806eac9dd977201518",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6132afaa5c43e9e79b8b62e2bee1a50247c3a2ae",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0b971e25d945517bbb7120c768a99b89a151ec0d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2ccbdf7b1ae9b1635ece6c8ec23262458a158933",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfed28dc8ab658c9a44c97a0255db8fadb5d564e0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfd4da6d17df10d91c071d2ec98668adb61425454",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3b846b7179cd07346aba3047ce61865b109d8674",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb8395ce3a84f0438aa9367dbb7e80599df5def1a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x46c98c883631cc3f9c472b814cbe27318e7366e2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x40058843432476e28c8467110cc99817ea0e19ff",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfc40b09f3cad48865da7840f175148467ba2dd68",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xce97aa07d88eae26d63e7531c0c14886d3068932",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc447132a1e65736b29546f4947eba795c50435c2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa940932a21015e13d0afb6d9f06497fe7aa1245f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6872551b0150de485d92bd1a50a16ba271dc1447",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf1da4cfc7ecf78c4b8c10bbcf8fa4ef70b1d385b",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0230cbf9bf80bc23038338f3f2776d3430339735",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe52933289aba4474e01a16944429892f889a089f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x076af1522d97cf372c5d4d0c8d99dcfb7d781d74",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x382e787a11c3857734d761cb0a2f8a5fbe47a226",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x996f0fcf33c019c3a655aa997378f71d1386c35f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x02224ff6682cb7f5424d963e3e6ab3d65d380146",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x174fe9c3deb341329484fa5ceaf4f2b4dff620d5",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa11e110065a7f9b0f08c18c21b1d05147d2a284a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4a3289a6ec810d472f50b386b7162aa137d5f745",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2294476a8b4d6c5b7f87c3a1e6c823f6117c45c2",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb8df209603ffbce2811f1f707a2fd3bef88d9a66",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc2b1b56bcc26c992285fdb63ccf7223562eb96a9",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6ca40a6b8798f3f021f745abe20e218ea67153fd",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcc75fbbde4c6c3cf1aae49bccb8fd809bef712de",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xb1cedf3923bdb897247a806e70f8682bece39d6d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6909047ed6ec4abc60dbec1bab75c3c5984272b6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x347b50693db2de7691c6753d27983f06ba44fc92",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x04434118674351a907b5985d893bc6a1dcb21f33",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfdaad414928c95d0047903beec2637c8f1687912",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x82b6a1daab0294da1bbb966dad7fcb174446311d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd4500f71876fc9893bfa262a04fb9c7f625c0a53",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5af9f8493f325c02a45a3dfddea60e8174c27882",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x75196459d8379fcc9e5f72bf9de8af6510cb8250",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe0513503522edb7bde38f504d1dc71d939d98bcf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd18a67f82bf9289cfa8067852026c1f93126f502",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3839acf1ee7699d1f46b1be840d8ad8317fdf757",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe8a4bcae2495f776af6b7fbd1932070b18673763",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3c43465f7147a29d48be1192326071237e8556c4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4be173380a3cdef094d2c7a2e782f22021bf701f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xefacf152caab84398df8214b8d8446bc48d534fc",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x97643e7a56fee4b9e34d731519881aa09569fd13",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x4297032878bfbef26032fbf27151cf436dab36aa",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd10324ae1d56f87b6f1ae3b9e758fd17501c7237",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x81c5409459d63fe4d3b358c781954b4b2a20db44",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7c5b15e5e361e7b91d2648256ac50bc561979f3c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xc53f9fa3e7021975e6a965dd6536fedb6cf09150",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcfcabe7d161ffc1d30b3c8316a18ebe3b9556adf",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x24ae12f66186621be601ec72b897ffaeda13df1e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xe9ef9234fa9d0585e5f153420386c92653e2fc65",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x229bfbe38d72b269c78f8ba331e2a1c0294db8d8",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0f437b59544eb7deaa9d0f16bf65199e2621349a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x63923ef172be35aba28a798f9b564cd25be72016",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x3787f675bd06effabef1303e2fd7d26088ba07c4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x6eaaa3c6bb071b32db74030a43db0a5bea07f850",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x61f04902d5abf183d4bac01a83bc6ada131218b3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x00a8822800284a0e1ad15cc187fdf052bb0693c3",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xcd4c6c0a050eaa3b9aa024ccac6977d455fb116a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7338aa6e0e3f70ee536c0e143ea43b59190567db",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x152cc415d95323f9d57f669c52c5ec64583d8ce0",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x539b07ceff15a71cc4a5d28369972341c2dd5d5e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfe6591713fdb22001a3ee8a562e3ab207addd530",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x420f0e48c6754ac07be58f116f857e359b5abe50",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x2a8e271e0a6f7bfcb368f7df88658a1dd7cb9101",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xbd51203a91f14ef766a8ded65f024356b0303067",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd41008eeddb4027707e5c848369a30eea6c5e999",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xfa9c9c52241686cf6c3b9b42789fa29732846ca4",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x49cbeb5b7b5fc6d095563efbeab9c9b313ed19d6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xf373432dfc792fe52e62a0dc9068e6c01b05fd34",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x919a32b12048387af49d91d43776fac720d99a33",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa964ea90403ba94448978ffc92027b2bd459e29f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x316378d9428db5725f83dd361e900bebe947179f",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x49273dcbcf7ef23188ee2e351b4cdbb9369e4e85",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x24430ae18740eea33f2c605fac08847e787cb21a",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd1cab538ddd9a849a93cd2e55d7677cc4cb5ab7c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x7892c2d42793f08534a56aa2ec3f37ba0fd25f16",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x52fa49ab985a7bf769f382be2f80f0156afbd46d",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x5a3e8d6f7f779cf809db879c733dab516edacd4c",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xa3b6cefc43e6dca3f4380d5a5c5dce7071ed2bd6",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x8bca9f3016a33b1e34135d5f536e46ed541f1a28",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd8c6e56e3a3cd1920126117976b4ef0bf00f7d85",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x0abfe2203f2a5fe8cf3245c274e7130611c3df4e",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  },
+  {
+    "address": "0x1810d7ebbb2c250ee89bd86adf50aa77286d8d13",
+    "type": "FCFS",
+    "phase": "Islands",
+    "maxMint": 1
+  }
+]
