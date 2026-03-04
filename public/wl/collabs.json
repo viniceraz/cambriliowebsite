@@ -1425,7 +1425,7 @@
     "address": "0xe3e71a18bcf04f3dae331437fafae5b89ea2bed8",
     "type": "GTD",
     "phase": "Collabs",
-    "maxMint": 1
+    "maxMint": 2
   },
   {
     "address": "0x5154823f97fe3692d070e038507348c121dcba24",
@@ -1576,5 +1576,186 @@
     "type": "GTD",
     "phase": "Collabs",
     "maxMint": 1
-  }
+  },
+  {
+    "address": "0xfa324D792d55C5431f73F74492dd761644684e27",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x546fEF44B598a45ed785f302098A044bA27c343c",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0x013fBB16eD275897c9AA2c8A4aBB43953a8C7731",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xd8004a73cf282040A284aEf6375aBf0A2040CbA0",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+    "address": "0xF5D8C46eC386511818635BFb5aA3188d96f12Bbf",
+    "type": "GTD",
+    "phase": "Collabs",
+    "maxMint": 1
+  },
+  {
+  "address": "0x14f9f5248d6145f6777a36d64874225f6b107744",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xb5eec82bd6bd089e26840f5408dd2b5f2d6235ae",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xe820f59454f77f46c085ebfc0ce6acd5bb7ef46b",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x8509c1a3e6ede978988e66d7366b5fed064ae2e3",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x56aefe905ff159ae4f192cbb1033cb1a9b0556d0",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x91d608115e115a77511036c51115d75c547ebee3",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x910c582ecd68299f596ea619a26832b05ba267b9",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xe722513c617fe6c8c0e5fd9a6ab895d14f91920f",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x31dca6838f814b508b4c23c3c9671242f9dfb572",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xa715c0506a6c1a2edc552486ff8b69abc7784b92",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xabcbc717cfaaacca0b77fd20a7a7638ab5885cb5",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x4e9d6ac959447e6fc59ac6cbedfeed49b9ce9315",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x24b99ff872db0bfc3949690809589dc0df945d8f",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x2a00895caef56f37b56e52192453ee42fff666b4",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x56ce079f537a3cb2fb5a42932d5ebb7b3ec36618",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x1810d7ebbb2c250ee89bd86adf50aa77286d8d13",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 3
+},
+{
+  "address": "0x4738115b25cfbb26d82a1b17e9cb4cfe5f4e85e2",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xbd42f712115db2240d5bcd6deb1eaf2387185a80",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xb4d0d99cc5b7b6ba5e0fad666668d9678405c566",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xa5a68f83425cd416f68026aa253eee0f2f493e41",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x5788858ed0ad70dea5056738b7ffd1810eacb84f",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x7f04c4387423c5460f0a797b79B7De2A4769567A",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 3
+},
+{
+  "address": "0x3dD5AD9230df6C928C9773cf98401041b24aBc71",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0x5154823F97FE3692D070E038507348c121dcbA24",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xfe30A3af86ec6EEA99bcC93d8Af61ae1A3D8139d",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+}
+  
 ]

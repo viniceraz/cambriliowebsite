@@ -102,7 +102,7 @@
     "maxMint": 11
   },
   {
-    "address": "0x37cedb10dfa478ce14423e24f745fd640b4cd989",
+    "address": "0xD6fBA51A7b85199870792630bDeAA75669682F50 ",
     "type": "GTD",
     "phase": "Founders",
     "maxMint": 11
@@ -198,7 +198,7 @@
     "maxMint": 6
   },
   {
-    "address": "0xe71a7d463f78b5b3e7c2f340e7e3aaef7ea4b60f",
+    "address": "0xE5D2260a4094cf966c0da78d1e2dE2899A9D4099",
     "type": "GTD",
     "phase": "Founders",
     "maxMint": 5
@@ -4914,7 +4914,7 @@
     "maxMint": 1
   },
   {
-    "address": "0x75f119589d1ed65effe909ee910a8200f04797d3",
+    "address": "0x11f5eE4B0ed6268663fdAF45A1228321B8F70992",
     "type": "GTD",
     "phase": "Founders",
     "maxMint": 1
