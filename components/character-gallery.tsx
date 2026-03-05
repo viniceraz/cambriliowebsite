@@ -3,12 +3,13 @@
 import { RpgPanel } from "@/components/rpg-panel"
 
 export function CharacterGallery() {
-  // Usa diretamente as imagens reais da pasta /public/gallery
-  const characters = Array.from({ length: 6 }, (_, i) => {
+  const names = ["geo", "1ogic", "benzz", "astariste", "cyril", "accipiter"]
+
+  const characters = names.map((name, i) => {
     const id = i + 1
     return {
       id,
-      name: `Character #${id}`,
+      name,
       image: `/gallery/${id}.png`,
     }
   })

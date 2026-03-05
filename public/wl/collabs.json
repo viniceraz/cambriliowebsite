@@ -1566,16 +1566,10 @@
     "maxMint": 1
   },
   {
-    "address": "0xc05b1022947220473a4c7c7dee19286d68170f50",
+    "address": "0xe614b5aFC2839ACF9e4a22b81bBC9A8c13Ca2E3a",
     "type": "GTD",
     "phase": "Collabs",
-    "maxMint": 1
-  },
-  {
-    "address": "0x7adee30cb4a49ed79caa838ba7cfb46c3317d798",
-    "type": "GTD",
-    "phase": "Collabs",
-    "maxMint": 1
+    "maxMint": 7
   },
   {
     "address": "0xfa324D792d55C5431f73F74492dd761644684e27",
@@ -1747,6 +1741,30 @@
 },
 {
   "address": "0x5154823F97FE3692D070E038507348c121dcbA24",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xfe30A3af86ec6EEA99bcC93d8Af61ae1A3D8139d",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xfe30A3af86ec6EEA99bcC93d8Af61ae1A3D8139d",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xfe30A3af86ec6EEA99bcC93d8Af61ae1A3D8139d",
+  "type": "GTD",
+  "phase": "Collabs",
+  "maxMint": 1
+},
+{
+  "address": "0xfe30A3af86ec6EEA99bcC93d8Af61ae1A3D8139d",
   "type": "GTD",
   "phase": "Collabs",
   "maxMint": 1
