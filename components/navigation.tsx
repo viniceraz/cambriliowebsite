@@ -15,6 +15,7 @@ export function Navigation() {
     { href: "/lore", label: t("nav.lore") },
     { href: "/characters", label: t("nav.characters") },
     { href: "/generator", label: t("nav.generator") },
+    { href: "/gallery", label: "Gallery" },
     { href: "/dashboard", label: "Flywheel" }, // Added Flywheel button
   ]
 
