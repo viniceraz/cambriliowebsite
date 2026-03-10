@@ -140,6 +140,7 @@ export const TRAIT_CATEGORIES: TraitCategory[] = [
       "steel full helm.png",
       "wifhat.png",
       "wizard hat.png",
+      "white party hat.png",
     ],
   },
   {
