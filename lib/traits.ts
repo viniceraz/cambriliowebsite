@@ -94,6 +94,7 @@ export const TRAIT_CATEGORIES: TraitCategory[] = [
       "Santa Clothing.png",
       "steel chain armor.png",
       "steel plate armor.png",
+      "farmers clothing.png",
     ],
   },
   {
@@ -141,6 +142,7 @@ export const TRAIT_CATEGORIES: TraitCategory[] = [
       "wifhat.png",
       "wizard hat.png",
       "white party hat.png",
+      "farmers hat.png",
     ],
   },
   {
@@ -183,6 +185,7 @@ export const TRAIT_CATEGORIES: TraitCategory[] = [
       "reinforced crossbow.png",
       "Staff.png",
       "viridian rod.png",
+      "rake.png",
     ],
   },
   {
