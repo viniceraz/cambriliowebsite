@@ -73,6 +73,22 @@ async function getNFTsSentFromWallet() {
   return r?.transfers || [];
 }
 
+// Busca TODOS os NFTs enviados para endereços de burn (de qualquer wallet)
+async function getAllNFTsBurnedToAddresses() {
+  const results = await Promise.all(
+    C.BURN_ADDRS.map(addr =>
+      alcRPC("alchemy_getAssetTransfers", [{
+        fromBlock: "0x0", toBlock: "latest",
+        toAddress: addr,
+        contractAddresses: [C.NFT_CONTRACT],
+        category: ["erc721"],
+        withMetadata: true,
+      }])
+    )
+  );
+  return results.flatMap(r => r?.transfers || []);
+}
+
 /* ═══ ALCHEMY NFT API (what wallet OWNS now) ═══ */
 async function getOwnedNFTs() {
   try {
@@ -120,9 +136,18 @@ function processRoyalties(wethTx) {
   }));
 }
 
-function processBurns(sentTx) {
+function processBurns(sentTx, allBurnTx) {
   const ba = C.BURN_ADDRS.map(a => a.toLowerCase());
-  return sentTx.filter(tx => ba.includes((tx.to || "").toLowerCase())).map(tx => ({
+  const fromWallet = sentTx.filter(tx => ba.includes((tx.to || "").toLowerCase()));
+  // Merge com todos os burns diretos para endereços de burn (de qualquer wallet)
+  const all = [...fromWallet, ...(allBurnTx || [])];
+  // Deduplicar por hash de transação
+  const seen = new Set();
+  return all.filter(tx => {
+    if (seen.has(tx.hash)) return false;
+    seen.add(tx.hash);
+    return true;
+  }).map(tx => ({
     type: "burn", nftId: `#${parseTokenId(tx)}`, tokenId: parseTokenId(tx),
     tx: tx.hash, time: new Date(tx.metadata?.blockTimestamp || Date.now()),
   }));
@@ -293,9 +318,9 @@ export default function App() {
   const fetchAll = useCallback(async () => {
     setLd(true);
     try {
-      const [eb, wb, wethTx, nftOut, owned, os, oe, coll, tsupply] = await Promise.all([
+      const [eb, wb, wethTx, nftOut, allBurned, owned, os, oe, coll, tsupply] = await Promise.all([
         getETHBal(), getWETHBal(), getWETHReceived(),
-        getNFTsSentFromWallet(), getOwnedNFTs(),
+        getNFTsSentFromWallet(), getAllNFTsBurnedToAddresses(), getOwnedNFTs(),
         getStats(), getEvents(), getCollection(), getTotalSupply(),
       ]);
 
@@ -303,7 +328,7 @@ export default function App() {
       setOwnedNfts(owned); // This is the REAL count of swept NFTs
 
       const roys = processRoyalties(wethTx);
-      const brns = processBurns(nftOut);
+      const brns = processBurns(nftOut, allBurned);
       setRoyalties(roys); setBurns(brns);
 
       setFeed(buildFeed(roys, owned.length, brns, oe));
@@ -315,8 +340,8 @@ export default function App() {
         setOwners(s.num_owners ?? null);
         setVol24(s.one_day_volume ?? null); setSales24(s.one_day_sales ?? null);
       }
-      // Supply: try OpenSea collection → then contract → fallback
-      setSupply(coll?.total_supply ?? tsupply ?? null);
+      // Supply: contrato é fonte de verdade → fallback OpenSea
+      setSupply(tsupply ?? coll?.total_supply ?? null);
       setLastUp(new Date());
     } catch (err) { console.error(err); }
     finally { setLd(false); }
