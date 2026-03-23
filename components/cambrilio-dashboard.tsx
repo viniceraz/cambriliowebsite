@@ -11,6 +11,7 @@ const C = {
   WETH: "0x4200000000000000000000000000000000000006",
   SLUG: "cambrilio",
   BURN_ADDRS: ["0x0000000000000000000000000000000000000000", "0x000000000000000000000000000000000000dead", "0x0000000000000000000000000000000000000001"],
+  MAX_SUPPLY: 3333, // supply original do mint
   OPENSEA_API: "https://api.opensea.io/api/v2",
   OPENSEA_URL: "https://opensea.io/collection/cambrilio",
   BASESCAN: "https://basescan.org",
@@ -362,8 +363,10 @@ export default function App() {
 
   const hd = chart.length > 0, ha = feed.length > 0;
   // contrato.totalSupply() já desconta burns → sup = circulating real
-  // originalSup = total cunhado = sup + burns
-  const sup = supply || 0, cur = sup, originalSup = sup + burns.length;
+  // burnCount = MAX_SUPPLY - totalSupply() → sempre exato, independe de API de transfers
+  const sup = supply || 0, cur = sup;
+  const burnCount = supply !== null ? C.MAX_SUPPLY - sup : burns.length;
+  const originalSup = C.MAX_SUPPLY;
   const totalRoy = royalties.reduce((s, r) => s + (r.value || 0), 0);
 
   return (
@@ -411,7 +414,7 @@ export default function App() {
           <SH title="Dashboard" subtitle="Alchemy + OpenSea" />
           <div style={{ display: "flex", gap: 10, flexWrap: "wrap", marginBottom: 10 }}>
             <Metric icon="🧹" label="SWEPT" value={ownedNfts.length} color={T.sweep} sub="NFTs in wallet" loading={ld} />
-            <Metric icon="🔥" label="BURNED" value={burns.length} color={T.burn} sub={originalSup ? `${((burns.length / originalSup) * 100).toFixed(1)}% supply` : "SOONBRIA!"} loading={ld} />
+            <Metric icon="🔥" label="BURNED" value={burnCount} color={T.burn} sub={`${((burnCount / originalSup) * 100).toFixed(1)}% supply`} loading={ld} />
             <Metric icon="💰" label="ROYALTIES" value={totalRoy ? totalRoy.toFixed(4) : "0"} color={T.weth} sub="WETH collected" loading={ld} />
             <Metric icon="💎" label="FLOOR" value={floor !== null ? `${floor}` : "—"} color={T.accent} sub={floor !== null ? "ETH" : "SOONBRIA!"} loading={ld} />
           </div>
@@ -437,7 +440,7 @@ export default function App() {
             </div>
           </div>
 
-          <div style={PS}><div style={PL}>SUPPLY DISTRIBUTION</div>{sup > 0 ? <SupplyBar burned={burns.length} total={originalSup || sup} /> : <Soonbria subtitle="After mint" height={140} />}</div>
+          <div style={PS}><div style={PL}>SUPPLY DISTRIBUTION</div>{sup > 0 ? <SupplyBar burned={burnCount} total={originalSup} /> : <Soonbria subtitle="After mint" height={140} />}</div>
         </>)}
 
         {sec === "analytics" && (<>
