@@ -7,7 +7,7 @@ import { useState, useEffect, useCallback, useRef } from "react";
    ═══════════════════════════════════════════ */
 const CFG = {
   OPENSEA_KEY: "f8c320a0be094849b65b94d1349e8dd5",
-  ALCHEMY_KEY: "MIkjpi3axqLy1r0Z_yyln",
+  ALCHEMY_KEY: "Th1sSdMq3_Pi8ukOmUwyw",
   SLUG: "cambrilio",
   CONTRACT: "0x4d540dd5ee4dc4a92a027b206c45605794396fb5",
   TREASURY: "0x03485B65E10bbe3238384F13cB2E6416eF89Ad24",

@@ -4,7 +4,7 @@ import { AreaChart, Area, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, R
 
 /* ═══ CONFIG ═══ */
 const C = {
-  ALCHEMY_KEY: "MIkjpi3axqLy1r0Z_yyln",
+  ALCHEMY_KEY: "Th1sSdMq3_Pi8ukOmUwyw",
   OPENSEA_KEY: "f8c320a0be094849b65b94d1349e8dd5",
   WALLET: "0x03485B65E10bbe3238384F13cB2E6416eF89Ad24",
   NFT_CONTRACT: "0x4d540dd5ee4dc4a92a027b206c45605794396fb5",
