@@ -73,20 +73,31 @@ async function getNFTsSentFromWallet() {
   return r?.transfers || [];
 }
 
+// Busca TODOS os transfers para um endereço de burn, com paginação completa
+async function fetchAllTransfersToAddr(addr) {
+  let all = [], pageKey;
+  do {
+    const params = {
+      fromBlock: "0x0", toBlock: "latest",
+      toAddress: addr,
+      contractAddresses: [C.NFT_CONTRACT],
+      category: ["erc721"],
+      withMetadata: true,
+      maxCount: "0x3e8",
+      ...(pageKey ? { pageKey } : {}),
+    };
+    const r = await alcRPC("alchemy_getAssetTransfers", [params]);
+    if (!r) break;
+    all = [...all, ...(r.transfers || [])];
+    pageKey = r.pageKey;
+  } while (pageKey);
+  return all;
+}
+
 // Busca TODOS os NFTs enviados para endereços de burn (de qualquer wallet)
 async function getAllNFTsBurnedToAddresses() {
-  const results = await Promise.all(
-    C.BURN_ADDRS.map(addr =>
-      alcRPC("alchemy_getAssetTransfers", [{
-        fromBlock: "0x0", toBlock: "latest",
-        toAddress: addr,
-        contractAddresses: [C.NFT_CONTRACT],
-        category: ["erc721"],
-        withMetadata: true,
-      }])
-    )
-  );
-  return results.flatMap(r => r?.transfers || []);
+  const results = await Promise.all(C.BURN_ADDRS.map(fetchAllTransfersToAddr));
+  return results.flat();
 }
 
 /* ═══ ALCHEMY NFT API (what wallet OWNS now) ═══ */
@@ -350,7 +361,9 @@ export default function App() {
   useEffect(() => { fetchAll(); const id = setInterval(fetchAll, C.REFRESH); return () => clearInterval(id); }, [fetchAll]);
 
   const hd = chart.length > 0, ha = feed.length > 0;
-  const sup = supply || 0, cur = sup - burns.length;
+  // contrato.totalSupply() já desconta burns → sup = circulating real
+  // originalSup = total cunhado = sup + burns
+  const sup = supply || 0, cur = sup, originalSup = sup + burns.length;
   const totalRoy = royalties.reduce((s, r) => s + (r.value || 0), 0);
 
   return (
@@ -398,13 +411,13 @@ export default function App() {
           <SH title="Dashboard" subtitle="Alchemy + OpenSea" />
           <div style={{ display: "flex", gap: 10, flexWrap: "wrap", marginBottom: 10 }}>
             <Metric icon="🧹" label="SWEPT" value={ownedNfts.length} color={T.sweep} sub="NFTs in wallet" loading={ld} />
-            <Metric icon="🔥" label="BURNED" value={burns.length} color={T.burn} sub={sup ? `${((burns.length / sup) * 100).toFixed(1)}% supply` : "SOONBRIA!"} loading={ld} />
+            <Metric icon="🔥" label="BURNED" value={burns.length} color={T.burn} sub={originalSup ? `${((burns.length / originalSup) * 100).toFixed(1)}% supply` : "SOONBRIA!"} loading={ld} />
             <Metric icon="💰" label="ROYALTIES" value={totalRoy ? totalRoy.toFixed(4) : "0"} color={T.weth} sub="WETH collected" loading={ld} />
             <Metric icon="💎" label="FLOOR" value={floor !== null ? `${floor}` : "—"} color={T.accent} sub={floor !== null ? "ETH" : "SOONBRIA!"} loading={ld} />
           </div>
           <div style={{ display: "flex", gap: 10, flexWrap: "wrap", marginBottom: 20 }}>
             <Metric icon="📊" label="VOLUME" value={vol ? `${parseFloat(vol).toFixed(4)}` : "—"} color={T.white} sub="ETH ALL TIME" loading={ld} />
-            <Metric icon="📦" label="SUPPLY" value={supply ?? "—"} color={T.white} sub={supply ? `${cur} circ.` : "SOONBRIA!"} loading={ld} />
+            <Metric icon="📦" label="SUPPLY" value={originalSup || supply || "—"} color={T.white} sub={cur ? `${Number(cur).toLocaleString()} circ.` : "SOONBRIA!"} loading={ld} />
             <Metric icon="👥" label="OWNERS" value={owners ?? "—"} color={T.white} sub="UNIQUE" loading={ld} />
             <Metric icon="🏦" label="ETH BAL." value={ethBal.toFixed(6)} color={T.gold} sub="IN WALLET" loading={ld} />
           </div>
@@ -424,7 +437,7 @@ export default function App() {
             </div>
           </div>
 
-          <div style={PS}><div style={PL}>SUPPLY DISTRIBUTION</div>{sup > 0 ? <SupplyBar burned={burns.length} total={sup} /> : <Soonbria subtitle="After mint" height={140} />}</div>
+          <div style={PS}><div style={PL}>SUPPLY DISTRIBUTION</div>{sup > 0 ? <SupplyBar burned={burns.length} total={originalSup || sup} /> : <Soonbria subtitle="After mint" height={140} />}</div>
         </>)}
 
         {sec === "analytics" && (<>

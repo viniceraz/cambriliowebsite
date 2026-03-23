@@ -105,7 +105,7 @@ export const TRAIT_CATEGORIES: TraitCategory[] = [
     items: [
       "abstract wizard hat.png",
       "Adamantine full helm.png",
-      "Aether Mage Wizard Hat.png",
+      "aether mage wizard hat.png",
       "angel halo.png",
       "black halloween mask.png",
       "blast wizard hood.png",
